@@ -27,10 +27,10 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "0e22e7195a9d982a411b61b3d249af07eb5df7adcb40153d6137a09c5e39f316"
+hash = "d2a615d48539929c212fda6a9e44a2737d226aad0b791d61bd31a52b68e12f72"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "b769a2f7ef2fa754224c5068491e79d02c0c85e0bc326fc05247f18315cc866b"
+hash = "844af68c07eac70b45bb488a7d9af2298cd6f2867d1ad33fd7abe94110dfedb1"
 metafile = true
