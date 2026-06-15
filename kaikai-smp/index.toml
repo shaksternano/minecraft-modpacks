@@ -66,6 +66,11 @@ hash = "08dc422d9c30fc19b569033f7cfd2abcd50134f618fe335b396b41dc6f5f3834"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "f4ec9f142fbd572f9da8253241b6c532bc9234e2defbe0e67e7ea7ea164d019c"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "8fb510d47dafc024cd08c0e80bfb59e192c354cb5db74c07dd146ee79fe8b885"
 metafile = true
@@ -93,6 +98,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "10b8d11dfeee39fdcb836eedfa34cd3d3c741a5a3b76bae901052a345010d43a"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
 metafile = true
 
 [[files]]
