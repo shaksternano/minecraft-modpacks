@@ -21,6 +21,11 @@ hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
 
 [[files]]
+file = "mods/crafted-core.pw.toml"
+hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
@@ -101,6 +106,11 @@ hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
 
 [[files]]
+file = "mods/remorphed.pw.toml"
+hash = "965be657a8f7717b4f09f750d73c070705caf94a4d3dd5715b865efcefed6d23"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "40ba7036effaabdc8a656e3bea11f0f8712740ebe0e8119c2d1179b968659934"
 metafile = true
@@ -128,6 +138,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
+metafile = true
+
+[[files]]
+file = "mods/woodwalkers.pw.toml"
+hash = "3aedb6e42a2edc20e2c2ba06bbc94b0dd370322e87314c085331db01b160f061"
 metafile = true
 
 [[files]]
