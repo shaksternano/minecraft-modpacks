@@ -15,6 +15,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "63f417eca4f251f85a5ae512394cbb9fa88dfdfb2b934b94637ba8b7dac1a831"
 metafile = true
