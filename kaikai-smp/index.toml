@@ -6,6 +6,10 @@ hash = "675cf6cae83d1407c4a294c7bb5eb606792913c677afea179aadaaabd42aa498"
 preserve = true
 
 [[files]]
+file = "config/sodium-options.json"
+hash = "f0253736b11b0aaf3586ba2aba0ae9ecd218201c8920fe8c09f85fa6b6383170"
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
@@ -27,7 +31,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "415fb6fb5c2eedb83aee3e76eaa10b0414c4712de3c37a5a33bf1b700dc76f6a"
+hash = "381fa439c15498a2befdd26368e7cf18d9cdf304a158148e40cf42b71b16b442"
 metafile = true
 
 [[files]]
