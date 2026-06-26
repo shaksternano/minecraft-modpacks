@@ -8,10 +8,12 @@ preserve = true
 [[files]]
 file = "config/iris.properties"
 hash = "41bbb385bbe72d834bd620c3659dee5a9f91922b773ce9b25ae7bb650e974f2c"
+preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
 hash = "f0253736b11b0aaf3586ba2aba0ae9ecd218201c8920fe8c09f85fa6b6383170"
+preserve = true
 
 [[files]]
 file = "mods/appleskin.pw.toml"
