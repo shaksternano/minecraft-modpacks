@@ -4,3 +4,8 @@ maxFps:260
 resourcePacks:["vanilla","file/Vanilla Tweaks Resource Pack 1.21.zip","file/3D Models 1.21.zip","file/Enchantment Textures Pack 1.21.zip","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lang:en_gb
+key_key.sneak:key.keyboard.left.control
+key_key.sprint:key.keyboard.left.shift
+key_key.hide_icons:key.keyboard.i
+key_key.voice_chat:key.keyboard.equal
+key_key.voice_chat_group:key.keyboard.minus
