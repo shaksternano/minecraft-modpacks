@@ -12,7 +12,7 @@ preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "f0253736b11b0aaf3586ba2aba0ae9ecd218201c8920fe8c09f85fa6b6383170"
+hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
 
 [[files]]
