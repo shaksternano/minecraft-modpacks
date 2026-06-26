@@ -146,6 +146,11 @@ hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
 metafile = true
 
 [[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "723e363273ff9fea18f1d2cf0b2d469901f9c4a1f1ffdd8093fa435451deef95"
+metafile = true
+
+[[files]]
 file = "mods/remorphed.pw.toml"
 hash = "965be657a8f7717b4f09f750d73c070705caf94a4d3dd5715b865efcefed6d23"
 metafile = true
@@ -168,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "369617869e9c8224e9c5e875d70677c491bc4282919b32705d096d253e2ffecd"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "1aad262000bea80b345a973a19a626bfbcb65b2ba78843843649e740168d04fd"
 metafile = true
 
 [[files]]
