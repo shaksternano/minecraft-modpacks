@@ -1,6 +1,6 @@
 fullscreen:true
 gamma:1.0
-graphicsMode:1
+maxFps:260
 resourcePacks:["vanilla","file/Vanilla Tweaks Resource Pack 1.21.zip","file/3D Models 1.21.zip","file/Enchantment Textures Pack 1.21.zip","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lang:en_gb

@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "587e5981bd5cfc9ecd25f2749036a67e199d4d50de4aa9697e92f7d9ad171a96"
+hash = "99b9d7adf70f392e5ab3c263de2bb9831151138e22687e2dd15bcc082c68659c"
 preserve = true
 
 [[files]]
@@ -181,6 +181,10 @@ hash = "dfb3d72ffca5fb7eb425ab85d2838a489242fb736cba33a6c89965455a531d4c"
 file = "servers.dat"
 hash = "e3f1ab6ef974e22bdb19ca33baa3433531c7621fa4390112f48ef21f838db3ad"
 preserve = true
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+hash = "2c5481ca57e0861647530a577fd3bc30faa8dcc5740d2f71e4d09b0446f1bbf2"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
