@@ -13,6 +13,7 @@ preserve = true
 [[files]]
 file = "config/lambdynlights.toml"
 hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
+preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
@@ -264,6 +265,7 @@ preserve = true
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
 hash = "2c5481ca57e0861647530a577fd3bc30faa8dcc5740d2f71e4d09b0446f1bbf2"
+preserve = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
