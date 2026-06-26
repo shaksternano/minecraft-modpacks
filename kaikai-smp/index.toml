@@ -36,11 +36,6 @@ hash = "be92440f9df0b43195a182f7073765220c43a3425d807784e2cde3a957ae1950"
 metafile = true
 
 [[files]]
-file = "mods/c2me-neoforge.pw.toml"
-hash = "37784a1f9ab276e618f3d29bf0ea641811f7f6d3a740179e0332e7794b91679e"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "3c58cdbfe61c7ecec7068fd066b4c375457631e370a64c032c9f8a8666d4f27b"
 metafile = true
