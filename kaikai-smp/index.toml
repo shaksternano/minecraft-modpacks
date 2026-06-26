@@ -11,6 +11,10 @@ hash = "41bbb385bbe72d834bd620c3659dee5a9f91922b773ce9b25ae7bb650e974f2c"
 preserve = true
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
