@@ -1,25 +1,32 @@
-import {A} from "@solidjs/router";
-import Counter from "~/components/Counter";
+import {A, createAsync, query} from "@solidjs/router";
+import {For} from "solid-js";
+import {getAllModpacks} from "~/util";
 
-export default function Home() {
+// noinspection JSUnusedGlobalSymbols
+export default function Index() {
+    const modpacks = createAsync(() => getAllModpacksQuery());
+
     return (
-        <main class="text-center mx-auto text-gray-700 p-4">
-            <h1 class="max-6-xs text-6xl text-sky-700 font-thin uppercase my-16">Hello world!</h1>
-            <Counter/>
-            <p class="mt-8">
-                Visit{" "}
-                <a href="https://solidjs.com" target="_blank" class="text-sky-600 hover:underline">
-                    solidjs.com
-                </a>{" "}
-                to learn how to build Solid apps.
-            </p>
-            <p class="my-4">
-                <span>Home</span>
-                {" - "}
-                <A href="/about" class="text-sky-600 hover:underline">
-                    About Page
-                </A>{" "}
-            </p>
+        <main class="flex flex-col gap-8 items-center p-10">
+            <h1 class="text-6xl">
+                Modpacks
+            </h1>
+            <ul class="flex flex-col gap-4">
+                <For each={modpacks()}>
+                    {(modpack) => (
+                        <li>
+                            <A href={`/modpacks/${modpack.id}`} class="underline">
+                                {modpack.name}
+                            </A>
+                        </li>
+                    )}
+                </For>
+            </ul>
         </main>
     );
 }
+
+const getAllModpacksQuery = query(async () => {
+    "use server";
+    return await getAllModpacks();
+}, "modpacks")
