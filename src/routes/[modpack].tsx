@@ -1,4 +1,4 @@
-import {A, createAsync, query, useParams} from "@solidjs/router";
+import {A, createAsync, Navigate, query, useParams} from "@solidjs/router";
 import {getModpack, getMods} from "~/util";
 import {For} from "solid-js";
 
@@ -7,6 +7,11 @@ export default function Modpack() {
     const params = useParams();
     const modpackId = params.modpack ?? "";
     const modpack = createAsync(() => getModpackQuery(modpackId));
+
+    if (modpack() === null) {
+        return <Navigate href="/"/>;
+    }
+
     const mods = createAsync(() => getModsQuery(modpackId));
 
     return (
@@ -34,7 +39,11 @@ export default function Modpack() {
 
 const getModpackQuery = query(async (modpackId: string) => {
     "use server";
-    return await getModpack(modpackId);
+    try {
+        return await getModpack(modpackId);
+    } catch {
+        return null;
+    }
 }, "modpack")
 
 const getModsQuery = query(async (modpackId: string) => {
