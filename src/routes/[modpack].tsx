@@ -25,7 +25,7 @@ export default function Modpack() {
                     )}
                 </For>
             </ul>
-            <A href="/public" class="absolute top-4 left-4 underline">
+            <A href="/" class="absolute top-4 left-4 underline">
                 Back
             </A>
         </main>
