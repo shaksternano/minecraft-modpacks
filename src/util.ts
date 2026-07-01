@@ -16,13 +16,14 @@ export interface Mod {
 
 export async function getAllModpacks(): Promise<Modpack[]> {
     "use server";
-    const modpacks = await fs.readdir(path.join(process.cwd(), "public", "modpacks"))
+    const modpacks = (await fs.readdir(path.join(process.cwd(), "public")))
+        .filter((file) => !file.includes("favicon"));
     return Promise.all(modpacks.map(getModpack));
 }
 
 export async function getModpack(modpackId: string): Promise<Modpack> {
     "use server";
-    const filePath = path.join(process.cwd(), "public", "modpacks", modpackId, "pack.toml");
+    const filePath = path.join(process.cwd(), "public", modpackId, "pack.toml");
     const raw = await fs.readFile(filePath, "utf-8");
     const modpackDetails = toml.parse(raw) as Modpack;
     modpackDetails.id = modpackId;
@@ -31,7 +32,7 @@ export async function getModpack(modpackId: string): Promise<Modpack> {
 
 export async function getMods(modpackId: string): Promise<Mod[]> {
     "use server";
-    const modsDirectory = path.join(process.cwd(), "public", "modpacks", modpackId, "mods");
+    const modsDirectory = path.join(process.cwd(), "public", modpackId, "mods");
     const modMetaFiles = await fs.readdir(modsDirectory);
     return Promise.all(modMetaFiles.sort().map(async (metafile) => {
         const raw = await fs.readFile(path.join(modsDirectory, metafile), "utf-8");

@@ -15,7 +15,7 @@ export default function Index() {
                 <For each={modpacks()}>
                     {(modpack) => (
                         <li>
-                            <A href={`/modpacks/${modpack.id}`} class="underline">
+                            <A href={`/${modpack.id}`} class="underline">
                                 {modpack.name}
                             </A>
                         </li>
