@@ -4,9 +4,14 @@ import path from "node:path";
 const PUBLIC_DIR = "public";
 const OUTPUT_FILE = path.join(PUBLIC_DIR, "manifest.json");
 
-function walk(dir: string, baseDir: string = dir): string[] {
+/**
+ * @param {string} dir
+ * @param {string} baseDir
+ * @returns {string[]}
+ */
+function walk(dir, baseDir = dir) {
     const entries = fs.readdirSync(dir, {withFileTypes: true});
-    let files = [] as string[];
+    let files = [];
     for (const entry of entries) {
         const fullPath = path.join(dir, entry.name);
         const relative = path.relative(baseDir, fullPath).split(path.sep).join("/");
@@ -18,9 +23,13 @@ function walk(dir: string, baseDir: string = dir): string[] {
     return files;
 }
 
-function getModpacks(dir: string): string[] {
+/**
+ * @param {string} dir
+ * @returns {string[]}
+ */
+function getModpacks(dir) {
     const entries = fs.readdirSync(dir, {withFileTypes: true});
-    const modpacks = [] as string[];
+    const modpacks = [];
     for (const entry of entries) {
         if (entry.isDirectory()) {
             const files = fs.readdirSync(path.join(entry.parentPath, entry.name));

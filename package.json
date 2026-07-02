@@ -3,7 +3,7 @@
     "type": "module",
     "scripts": {
         "dev": "vinxi dev",
-        "prebuild": "node scripts/generate-manifest.ts",
+        "prebuild": "node scripts/generate-manifest.js",
         "build": "vinxi build",
         "start": "vinxi start",
         "preview": "vinxi preview"
