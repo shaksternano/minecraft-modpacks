@@ -38,7 +38,6 @@ export default function Modpack() {
 }
 
 const getModpackQuery = query(async (modpackId: string) => {
-    "use server";
     try {
         return await getModpack(modpackId);
     } catch {
@@ -47,6 +46,5 @@ const getModpackQuery = query(async (modpackId: string) => {
 }, "modpack")
 
 const getModsQuery = query(async (modpackId: string) => {
-    "use server";
     return await getMods(modpackId);
 }, "mods")

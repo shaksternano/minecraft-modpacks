@@ -27,6 +27,5 @@ export default function Index() {
 }
 
 const getAllModpacksQuery = query(async () => {
-    "use server";
     return await getAllModpacks();
 }, "modpacks")
