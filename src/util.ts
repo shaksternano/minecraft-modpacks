@@ -15,28 +15,15 @@ export interface Mod {
     update: Record<string, any>;
 }
 
+const MODPACKS_DIRECTORY = joinPath(getRoot(), "packwiz-modpacks");
+
 export async function getAllModpacks(): Promise<Modpack[]> {
-    let modpacks = [] as string[];
-    if (isServer) {
-        const rootFiles = await fs.readdir(getRoot(), {withFileTypes: true});
-        for (const file of rootFiles) {
-            if (file.isDirectory()) {
-                const directoryContents = await listFiles(joinPath(file.parentPath, file.name));
-                if (directoryContents.includes("pack.toml")) {
-                    modpacks.push(file.name)
-                }
-            }
-        }
-    } else {
-        const manifest = await fetch("/manifest.json");
-        const manifestContent = await manifest.json();
-        modpacks = manifestContent.modpacks
-    }
+    const modpacks = await listFiles(MODPACKS_DIRECTORY);
     return Promise.all(modpacks.map(getModpack));
 }
 
 export async function getModpack(modpackId: string): Promise<Modpack> {
-    const filePath = joinPath(getRoot(), modpackId, "pack.toml");
+    const filePath = joinPath(MODPACKS_DIRECTORY, modpackId, "pack.toml");
     const raw = await readText(filePath);
     const modpackDetails = toml.parse(raw) as Modpack;
     modpackDetails.id = modpackId;
@@ -44,7 +31,7 @@ export async function getModpack(modpackId: string): Promise<Modpack> {
 }
 
 export async function getMods(modpackId: string): Promise<Mod[]> {
-    const modsDirectory = joinPath(getRoot(), modpackId, "mods");
+    const modsDirectory = joinPath(MODPACKS_DIRECTORY, modpackId, "mods");
     const modMetaFiles = await listFiles(modsDirectory);
     return Promise.all(modMetaFiles.sort().map(async (metafile) => {
         const raw = await readText(joinPath(modsDirectory, metafile));
@@ -85,11 +72,11 @@ async function listFiles(directory: string): Promise<string[]> {
         return await fs.readdir(directory);
     } else {
         const manifest = await fetch("/manifest.json");
-        const manifestContent = await manifest.json();
-        const files = manifestContent.files as string[];
+        const files = await manifest.json() as string[];
         return files
             .filter(file => file !== directory && file.startsWith(directory))
-            .map((file) => file.slice(directory.length + 1).split("/")[0]);
+            .map((file) => file.slice(directory.length + 1))
+            .filter((file) => !file.includes("/"));
     }
 }
 

@@ -23,30 +23,7 @@ function walk(dir, baseDir = dir) {
     return files;
 }
 
-/**
- * @param {string} dir
- * @returns {string[]}
- */
-function getModpacks(dir) {
-    const entries = fs.readdirSync(dir, {withFileTypes: true});
-    const modpacks = [];
-    for (const entry of entries) {
-        if (entry.isDirectory()) {
-            const files = fs.readdirSync(path.join(entry.parentPath, entry.name));
-            if (files.includes("pack.toml")) {
-                modpacks.push(entry.name);
-            }
-        }
-    }
-    return modpacks;
-}
+const files = walk(PUBLIC_DIR).filter((file) => file !== "/manifest.json");
 
-const files = walk(PUBLIC_DIR).filter((f) => f !== "/manifest.json");
-const modpacks = getModpacks(PUBLIC_DIR);
-const manifest = {
-    files: files,
-    modpacks: modpacks,
-}
-
-fs.writeFileSync(OUTPUT_FILE, JSON.stringify(manifest, null, 2));
+fs.writeFileSync(OUTPUT_FILE, JSON.stringify(files, null, 2));
 console.log(`Generated manifest.json with ${files.length} files`);
