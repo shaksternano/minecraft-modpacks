@@ -48,7 +48,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Vanilla Tweaks Resource Pack 1.21.zip","file/3D Models 1.21.zip","file/Enchantment Textures Pack 1.21.zip","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","file/vanilla_tweaks_resource_pack_1.21.zip","file/3d_Models_1.21.zip","file/enchantment_textures_pack_1.21.zip","fabric","mod_resources","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_gb

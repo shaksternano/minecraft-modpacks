@@ -15,7 +15,7 @@ export interface Mod {
     update: Record<string, any>;
 }
 
-const MODPACKS_DIRECTORY = joinPath(getRoot(), "packwiz-modpacks");
+const MODPACKS_DIRECTORY = joinPath(getRoot(), "modpacks");
 
 export async function getAllModpacks(): Promise<Modpack[]> {
     const modpacks = await listFiles(MODPACKS_DIRECTORY);

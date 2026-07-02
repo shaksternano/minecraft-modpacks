@@ -252,19 +252,19 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "30d458531b550233577f0a40aac714d8f9de36f12c41117bcb88562be79f7dc2"
+hash = "e888f67591e0ae12cc32cc1c838b21f6070241d2b9d3529fe2abe9686efc1aff"
 preserve = true
 
 [[files]]
-file = "resourcepacks/3D Models 1.21.zip"
+file = "resourcepacks/3d_Models_1.21.zip"
 hash = "9ce91a9aaaee62f92175f8304dcf8250d46970b185117ea8e50a2adabadaa7d1"
 
 [[files]]
-file = "resourcepacks/Enchantment Textures Pack 1.21.zip"
+file = "resourcepacks/enchantment_textures_pack_1.21.zip"
 hash = "fbdecea49767ef00c340a2024121f062dc82f64991c7d8f3284570ec99736dab"
 
 [[files]]
-file = "resourcepacks/Vanilla Tweaks Resource Pack 1.21.zip"
+file = "resourcepacks/vanilla_tweaks_resource_pack_1.21.zip"
 hash = "dfb3d72ffca5fb7eb425ab85d2838a489242fb736cba33a6c89965455a531d4c"
 
 [[files]]
