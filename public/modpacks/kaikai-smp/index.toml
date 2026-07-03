@@ -126,11 +126,6 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
-file = "mods/guns++.pw.toml"
-hash = "64f0413893ed60422d9b6c6fb08e7112bf4974863a0670cf884aa9930a212f93"
-metafile = true
-
-[[files]]
 file = "mods/iris.pw.toml"
 hash = "db1c1e6382878b78e994dba1b9026935f8d1c5ca685c89d2437858e0a0dcab58"
 metafile = true
@@ -223,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "593fa7b30ab016aa45be07bd6bef3a9f160ed0f24689850d60bf84995d69b843"
+metafile = true
+
+[[files]]
+file = "mods/tacz-1.21.1.pw.toml"
+hash = "1adf681aeaa2bfc05d122993ece170dd6931e38c5cfad0f4bd0cbbbac0b5be79"
 metafile = true
 
 [[files]]
