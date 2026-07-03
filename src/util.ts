@@ -33,7 +33,7 @@ export async function getModpack(modpackId: string): Promise<Modpack> {
 export async function getMods(modpackId: string): Promise<Mod[]> {
     const modsDirectory = joinPath(MODPACKS_DIRECTORY, modpackId, "mods");
     const modMetaFiles = await listFiles(modsDirectory);
-    return Promise.all(modMetaFiles.sort().map(async (metafile) => {
+    const mods = await Promise.all(modMetaFiles.map(async (metafile) => {
         const raw = await readText(joinPath(modsDirectory, metafile));
         const modDetails = toml.parse(raw) as Mod;
         const modId = metafile.split(".")[0];
@@ -45,6 +45,7 @@ export async function getMods(modpackId: string): Promise<Mod[]> {
         }
         return modDetails;
     }));
+    return mods.sort((a, b) => a.name.localeCompare(b.name));
 }
 
 function getRoot(): string {
