@@ -21,6 +21,86 @@ hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
 
 [[files]]
+file = "datapacks/afk_display_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "ad2654f9826e1e86cbc1c9173ad65f697a59d97469163a72ad2a9cef0d00184e"
+
+[[files]]
+file = "datapacks/anti_enderman_grief_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "5cb612407cb72ac8e9629287fdc903b3b9df6cef379e2d2e1875edbd7dddc1b1"
+
+[[files]]
+file = "datapacks/armor_statues_v2.8.21_(MC_1.21-1.21.11).zip"
+hash = "b08d6d56d360bb9898b8b81a1ab9c609b234780867bdfac8f73d0e6266c6612e"
+
+[[files]]
+file = "datapacks/coordinates_hud_v1.2.16_(MC_1.21-1.21.11).zip"
+hash = "f40582e026e982aa1aa402f4f4a23fde41653fac879867a2fb6baa555b1d18ea"
+
+[[files]]
+file = "datapacks/custom_nether_portals_v2.3.18_(MC_1.21-1.21.11).zip"
+hash = "a3ac57f9b7d22ac4ec488188e30a677ace233c575047f5735454788f3c44cd8d"
+
+[[files]]
+file = "datapacks/fast_leaf_decay_v2.0.20_(MC_1.21-1.21.11).zip"
+hash = "cfb171363c44fefd06be468256ce82757e40267bd86556484a2f2a201d35f269"
+
+[[files]]
+file = "datapacks/mini_blocks_v1.1.5_(MC_1.21-1.21.11).zip"
+hash = "d710a44f67f2ab175384bcb7a581150f03e258f29199d1c88cc526cd2df50215"
+
+[[files]]
+file = "datapacks/more_mob_heads_v2.18.0_(MC_1.21-1.21.11).zip"
+hash = "fb5508605f6712f9999a134664670273241334ddab97fce899789cdcdfbd9f95"
+
+[[files]]
+file = "datapacks/nether_portal_coords_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "2277092a3b9c27d54db7bc7a0d0e2d7325ff853c12e009053f2ce955f683f29a"
+
+[[files]]
+file = "datapacks/painting_picker_v1.1.2_(MC_1.21-1.21.11).zip"
+hash = "64c82bd11316433f9d5e0f5ac72227a6158af9a7f860fc0e26a876e6a886f3d3"
+
+[[files]]
+file = "datapacks/player_head_drops_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "3513d89915854e09f4f112f230f1eed91b53a80fe22a02f320277654c15e04f3"
+
+[[files]]
+file = "datapacks/real_time_clock_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "bbfb968c01b4b0583ba00517afad186da69cc824a0d1c4e86a40f83bfd77641b"
+
+[[files]]
+file = "datapacks/silence_mobs_v1.2.9_(MC_1.21-1.21.11).zip"
+hash = "f10a5d01b4ab1e660c963acc3e51b3615db170fc8dfe89e835fe4f331e8760b5"
+
+[[files]]
+file = "datapacks/spectator_conduit_power_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "db531f45dc96fd45444a0b1ca6d0d7f92e60b7c52217ff5c3df199560a24eb7d"
+
+[[files]]
+file = "datapacks/spectator_night_vision_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "4ebee5570e714892c9a198a6b98bd8d480d00164e18484657b5cf56147a4fdb3"
+
+[[files]]
+file = "datapacks/track_play_time_mc_1.21.zip"
+hash = "38b0f86b942912bcb69666326fca1a409d56211e8e6073b49b9a3aacfdc6bc60"
+
+[[files]]
+file = "datapacks/track_raw_statistics_v1.7.11_(MC_1.21-1.21.11).zip"
+hash = "3ba118c7182307739df6ae69779df58efb3fbf66bbb07947b251304441f2b8de"
+
+[[files]]
+file = "datapacks/track_statistics_v1.1.17_(MC_1.21-1.21.11).zip"
+hash = "d5c446b29070c0863e5af28338d8ba1f844f5bb0a4e49ba2605272054e8fab1e"
+
+[[files]]
+file = "datapacks/villager_workstation_highlights_v1.1.15_(MC_1.21-1.21.11).zip"
+hash = "8517a048e53454673845e2f35bc04a1f60249b5b21af5976a2fb8aa89f281269"
+
+[[files]]
+file = "datapacks/wandering_trades_v1.7.14_(MC_1.21-1.21.11).zip"
+hash = "f9162390d08d058034f536bb5f5e8d87237d44d8a715058778ead6edd675d18e"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "c1f98a1e9d7201f0b6ddc3f705f43a53f7539978f48425de5c1177a310fe7b86"
 metafile = true
@@ -138,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/forgified-fabric-api.pw.toml"
 hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
+metafile = true
+
+[[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "a7f2ae8ea415e95ce1a3518b66edcaf124d8903ff9101d07331f7fec92b3400f"
 metafile = true
 
 [[files]]
