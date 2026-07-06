@@ -400,6 +400,11 @@ hash = "cd5c8c1f6183f5c2ca899daed14f272890566002dfcb2d9f9a59dfbfac0bc8f6"
 metafile = true
 
 [[files]]
+file = "mods/terralith-restoned.pw.toml"
+hash = "abde622f6570b0b4c5ba50c6f329c174d3f8f82de3cd29523c0064b0f9d9987c"
+metafile = true
+
+[[files]]
 file = "mods/terralith.pw.toml"
 hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
 metafile = true
