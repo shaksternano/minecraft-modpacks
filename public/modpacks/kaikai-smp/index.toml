@@ -415,6 +415,21 @@ hash = "ae1a00455be0edadffea3e272b43a7d8080a501fc4fe0e3e8ff91bb81903d6e6"
 metafile = true
 
 [[files]]
+file = "mods/refined-storage-jei-integration.pw.toml"
+hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage-quartz-arsenal.pw.toml"
+hash = "dfbd1d91b723a8a4c15065ee9b9ce2e9996dd7d69f6299436a5ab1200211ae76"
+metafile = true
+
+[[files]]
+file = "mods/refined-storage.pw.toml"
+hash = "aaf0d7287d0b48ed96307ffa1fd8bbe7a3d6bfc837be1e6ba42c09063b988e69"
+metafile = true
+
+[[files]]
 file = "mods/remorphed.pw.toml"
 hash = "965be657a8f7717b4f09f750d73c070705caf94a4d3dd5715b865efcefed6d23"
 metafile = true
