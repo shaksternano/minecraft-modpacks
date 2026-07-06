@@ -280,6 +280,21 @@ hash = "ca3ef8e60e8ed2d7b82cc8b3ce0188f122125d41744d95d9ef6de3dbf77f8957"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/esf.pw.toml"
+hash = "c59b4ddb08c9f5e86ca1bce7fb0b5bf6d47afa1f3fd44e4adac28f3fcc88c756"
+metafile = true
+
+[[files]]
 file = "mods/farmers-delight.pw.toml"
 hash = "9aab64fbec4cc794817026caf84e7d0dff14ba3892da94aa0e00d23c84560499"
 metafile = true
