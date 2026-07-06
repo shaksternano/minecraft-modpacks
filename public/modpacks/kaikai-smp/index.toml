@@ -215,6 +215,11 @@ hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
 
 [[files]]
+file = "mods/create-contraption-terminals.pw.toml"
+hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
+metafile = true
+
+[[files]]
 file = "mods/create.pw.toml"
 hash = "dcaf5f2e28db0b9a127d0167456832341045ddc9aec058c3d9fcf53f618d2404"
 metafile = true
@@ -442,6 +447,11 @@ metafile = true
 [[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "0f67fdb37d6ef354f36a1da5805b5c083be21e7367868ec81d29426d94749609"
 metafile = true
 
 [[files]]
