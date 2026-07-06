@@ -120,6 +120,11 @@ hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
 metafile = true
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
 file = "mods/bclib-neoforge.pw.toml"
 hash = "7acc9e2c6e2059beed22139422caba119d44508763cb4d0ebb21a276be0e993f"
 metafile = true
@@ -232,6 +237,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/findme.pw.toml"
+hash = "ef9b249b2052ef6cc08214e63debd2a9a71d60b7fe1353bbff41634c3d6408ca"
 metafile = true
 
 [[files]]
