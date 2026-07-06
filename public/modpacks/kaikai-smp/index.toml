@@ -135,6 +135,11 @@ hash = "7acc9e2c6e2059beed22139422caba119d44508763cb4d0ebb21a276be0e993f"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
 file = "mods/better-end-cities-better-end.pw.toml"
 hash = "66348e2a8fb39a086e64be85d7d4b01b68d72464ed1d50089dd30078cf92fa8b"
 metafile = true
