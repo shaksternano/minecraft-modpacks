@@ -1,0 +1,13 @@
+name = "Better End Cities Better End"
+filename = "BetterEndCities-Raijin-structure-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "519a78c2500590556949c653fd0c458e89fee625"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8105176
+project-id = 959460

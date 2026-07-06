@@ -45,6 +45,10 @@ file = "datapacks/fast_leaf_decay_v2.0.20_(MC_1.21-1.21.11).zip"
 hash = "cfb171363c44fefd06be468256ce82757e40267bd86556484a2f2a201d35f269"
 
 [[files]]
+file = "datapacks/lootr-betterend-compatibility-data-pack.zip"
+hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
+
+[[files]]
 file = "datapacks/mini_blocks_v1.1.5_(MC_1.21-1.21.11).zip"
 hash = "d710a44f67f2ab175384bcb7a581150f03e258f29199d1c88cc526cd2df50215"
 
@@ -113,6 +117,21 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "716d930feff599bf9ce732e05979fbae8025dc8a3c13ccf4f1cb207a70883bc6"
+metafile = true
+
+[[files]]
+file = "mods/bclib-neoforge.pw.toml"
+hash = "7acc9e2c6e2059beed22139422caba119d44508763cb4d0ebb21a276be0e993f"
+metafile = true
+
+[[files]]
+file = "mods/better-end-cities-better-end.pw.toml"
+hash = "66348e2a8fb39a086e64be85d7d4b01b68d72464ed1d50089dd30078cf92fa8b"
+metafile = true
+
+[[files]]
+file = "mods/betterend-neoforge.pw.toml"
+hash = "8612bb54539b89589f876f2cb009d3eb98671dcb39afc9391ea0b16ef4a7542b"
 metafile = true
 
 [[files]]
@@ -343,6 +362,16 @@ metafile = true
 [[files]]
 file = "mods/woodwalkers.pw.toml"
 hash = "3aedb6e42a2edc20e2c2ba06bbc94b0dd370322e87314c085331db01b160f061"
+metafile = true
+
+[[files]]
+file = "mods/worldweaver-neoforge.pw.toml"
+hash = "abc282e0dbcdaed60cddb6c75692fcebff131d96dd488b921b34401046a21f06"
+metafile = true
+
+[[files]]
+file = "mods/wunderlib-neoforge.pw.toml"
+hash = "be9540e46f1fb23ecc35d79b468480558924c518f759e46783f9d9de68b772f3"
 metafile = true
 
 [[files]]
