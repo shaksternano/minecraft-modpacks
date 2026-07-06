@@ -16,6 +16,11 @@ hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
 preserve = true
 
 [[files]]
+file = "config/quark-common.toml"
+hash = "e0ce9e4388248aae1f1089bcf432f5a8f9c63bab75d6771e6f0ddb2d72791180"
+preserve = true
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
