@@ -150,6 +150,11 @@ hash = "8612bb54539b89589f876f2cb009d3eb98671dcb39afc9391ea0b16ef4a7542b"
 metafile = true
 
 [[files]]
+file = "mods/bluemap.pw.toml"
+hash = "f33a4720ef4f315b6d1f778039e9f7bdb8f5ef1b58a57d565c30fd1d8adee207"
+metafile = true
+
+[[files]]
 file = "mods/bobby-reneoforged.pw.toml"
 hash = "be92440f9df0b43195a182f7073765220c43a3425d807784e2cde3a957ae1950"
 metafile = true
@@ -217,6 +222,11 @@ metafile = true
 [[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
+metafile = true
+
+[[files]]
+file = "mods/create-bluemap.pw.toml"
+hash = "126a46aca4f5225d6b08094716def2da67aa9b3fe6fd64a05478f7dc0aeb4e63"
 metafile = true
 
 [[files]]
