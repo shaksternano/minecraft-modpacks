@@ -26,6 +26,10 @@ hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
 
 [[files]]
+file = "config/wover/client.json"
+hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
+
+[[files]]
 file = "datapacks/afk_display_v1.1.15_(MC_1.21-1.21.11).zip"
 hash = "ad2654f9826e1e86cbc1c9173ad65f697a59d97469163a72ad2a9cef0d00184e"
 
