@@ -145,6 +145,11 @@ hash = "be92440f9df0b43195a182f7073765220c43a3425d807784e2cde3a957ae1950"
 metafile = true
 
 [[files]]
+file = "mods/bocchud.pw.toml"
+hash = "60fdfdb796c24a047c7283042fb51d0c3937a4ba745c2353cf9a5f73ed24eca5"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
 metafile = true
@@ -297,6 +302,11 @@ metafile = true
 [[files]]
 file = "mods/lootr.pw.toml"
 hash = "141584f0498f59dc445d163b82e148b339a7948927e476c6183b40da19c05799"
+metafile = true
+
+[[files]]
+file = "mods/mafglib.pw.toml"
+hash = "2726c6991c3cc6ee3644725fd98759b6d8b2cfd96d0fcb7ad8e266924f741f52"
 metafile = true
 
 [[files]]
