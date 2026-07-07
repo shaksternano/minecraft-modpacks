@@ -11,6 +11,10 @@ hash = "ac8f937ba871a54575e324815793e48b421af88993d3571768626c38772dceef"
 preserve = true
 
 [[files]]
+file = "config/controlify.json"
+hash = "ff50ce67c836a4d8bc1a8167278142d6eb876d55696469b621b52efe9329aa1a"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 preserve = true
