@@ -462,6 +462,11 @@ hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
 metafile = true
