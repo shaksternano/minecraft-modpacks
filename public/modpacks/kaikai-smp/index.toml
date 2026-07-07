@@ -45,6 +45,10 @@ hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "1b9e5bcd1d45cccf02a5878ce8833a977d3b938c45138f5ffdc435e848fc64a3"
+
+[[files]]
 file = "config/wover/client.json"
 hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
 preserve = true
