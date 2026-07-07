@@ -6,6 +6,10 @@ hash = "675cf6cae83d1407c4a294c7bb5eb606792913c677afea179aadaaabd42aa498"
 preserve = true
 
 [[files]]
+file = "config/create-client.toml"
+hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
+
+[[files]]
 file = "config/iris.properties"
 hash = "41bbb385bbe72d834bd620c3659dee5a9f91922b773ce9b25ae7bb650e974f2c"
 preserve = true
