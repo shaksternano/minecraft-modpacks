@@ -192,6 +192,11 @@ hash = "60fdfdb796c24a047c7283042fb51d0c3937a4ba745c2353cf9a5f73ed24eca5"
 metafile = true
 
 [[files]]
+file = "mods/cat-jammies.pw.toml"
+hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
+metafile = true
+
+[[files]]
 file = "mods/cc-sable.pw.toml"
 hash = "253a414e73f57c890ae5e03f49517191267b1bef0a89252ae1221748cd0de4f9"
 metafile = true
