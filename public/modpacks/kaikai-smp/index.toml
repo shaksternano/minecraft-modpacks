@@ -34,6 +34,10 @@ file = "config/wover/client.json"
 hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
 
 [[files]]
+file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
+hash = "353b1d3f3abd8c3bf5deef9f21e031afd422aa18ff90454e1ee97440ae1c7a50"
+
+[[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
@@ -723,7 +727,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8f9a18636587686d91cfb069f5fd9cc403e06128c623d386a9443e1eb122ec0b"
+hash = "d81e2dab539b7cdd6e12b322fe552e355cc77b565eb71dab6384cbd9b889ee79"
 preserve = true
 
 [[files]]
