@@ -16,6 +16,10 @@ hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
 preserve = true
 
 [[files]]
+file = "config/minihud.json"
+hash = "a597a16a8570cff0c361b96078033ebd94270cf196729f0c64044c1d1a18b9a1"
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "e0ce9e4388248aae1f1089bcf432f5a8f9c63bab75d6771e6f0ddb2d72791180"
 preserve = true
@@ -28,6 +32,10 @@ preserve = true
 [[files]]
 file = "config/wover/client.json"
 hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 
 [[files]]
 file = "datapacks/afk_display_v1.1.15_(MC_1.21-1.21.11).zip"
@@ -620,7 +628,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "43b71bb885b11ccd40888d16a3e1b0cad4d1946d6af5f55e9dd98531d034fef4"
+hash = "8f9a18636587686d91cfb069f5fd9cc403e06128c623d386a9443e1eb122ec0b"
 preserve = true
 
 [[files]]
