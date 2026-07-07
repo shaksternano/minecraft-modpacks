@@ -382,8 +382,18 @@ hash = "a830f9e0393be04dd0a8a3a845b27e90cd34961887403c800e296182283d9c3e"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "198c99aecc2dfae1a25ca18b2563aef02e6226b844867a01c56db7073a494797"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "5a26489b734991c0511abfe43bf9143c935b8483d854a78fecd2e84993fb09cc"
+metafile = true
+
+[[files]]
+file = "mods/glassential-renewed.pw.toml"
+hash = "3e6ef0e86b6fd0a8f7d9394f1254860b3f1ffe024cc86352232d144f5afc12b9"
 metafile = true
 
 [[files]]
