@@ -13,6 +13,7 @@ preserve = true
 [[files]]
 file = "config/controlify.json"
 hash = "ff50ce67c836a4d8bc1a8167278142d6eb876d55696469b621b52efe9329aa1a"
+preserve = true
 
 [[files]]
 file = "config/create-client.toml"
@@ -32,6 +33,7 @@ preserve = true
 [[files]]
 file = "config/malilib.json"
 hash = "c87bdd976e9c92048853ba57a232d9cdd3538aa061c644bba0259af26c796e3b"
+preserve = true
 
 [[files]]
 file = "config/minihud.json"
@@ -51,6 +53,7 @@ preserve = true
 [[files]]
 file = "config/supplementaries-client.toml"
 hash = "1b9e5bcd1d45cccf02a5878ce8833a977d3b938c45138f5ffdc435e848fc64a3"
+preserve = true
 
 [[files]]
 file = "config/wover/client.json"
