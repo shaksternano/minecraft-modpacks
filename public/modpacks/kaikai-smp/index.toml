@@ -197,6 +197,11 @@ hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
 metafile = true
 
 [[files]]
+file = "mods/building-gadgets.pw.toml"
+hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
+metafile = true
+
+[[files]]
 file = "mods/cat-jammies.pw.toml"
 hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
 metafile = true
