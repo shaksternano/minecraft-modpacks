@@ -282,10 +282,10 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
-key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.swap_hotbar:key.keyboard.v
-key_key.twilightforest.zoom:key.keyboard.z
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
+key_key.twilightforest.zoom:key.keyboard.z
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
@@ -314,7 +314,7 @@ key_key.jade.show_recipes:key.keyboard.keypad.3
 key_key.jade.show_uses:key.keyboard.keypad.4
 key_key.jade.narrate:key.keyboard.keypad.5
 key_key.jade.show_details:key.keyboard.left.shift
-key_key.sable_player_ragdoll.ragdoll:key.keyboard.h
+key_key.sable_player_ragdoll.ragdoll:key.keyboard.j
 key_key.buildinggadgets2.settings_menu:key.keyboard.g
 key_key.buildinggadgets2.undo:key.keyboard.u
 key_key.buildinggadgets2.anchor:key.keyboard.unknown
