@@ -7,7 +7,7 @@ preserve = true
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d9e5efc1e12aeaf6cac6d12a882a9aff6605fc4310e635c79a639f8dbf36a394"
+hash = "ac8f937ba871a54575e324815793e48b421af88993d3571768626c38772dceef"
 preserve = true
 
 [[files]]
