@@ -219,6 +219,11 @@ hash = "381fa439c15498a2befdd26368e7cf18d9cdf304a158148e40cf42b71b16b442"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
@@ -481,6 +486,11 @@ metafile = true
 [[files]]
 file = "mods/sable.pw.toml"
 hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "ce9ddada6ffd55a512149cc474c6a453281a997a5fdf1b7b4a2cc73f875e704a"
 metafile = true
 
 [[files]]
