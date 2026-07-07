@@ -7,11 +7,13 @@ preserve = true
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "9c69d6b2f324350ef1ea1c15cd9a67e75fcce04c8fc51a56bffe265b0b9126d5"
+hash = "d9e5efc1e12aeaf6cac6d12a882a9aff6605fc4310e635c79a639f8dbf36a394"
+preserve = true
 
 [[files]]
 file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
+preserve = true
 
 [[files]]
 file = "config/iris.properties"
@@ -24,8 +26,13 @@ hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
 preserve = true
 
 [[files]]
+file = "config/malilib.json"
+hash = "c87bdd976e9c92048853ba57a232d9cdd3538aa061c644bba0259af26c796e3b"
+
+[[files]]
 file = "config/minihud.json"
-hash = "a597a16a8570cff0c361b96078033ebd94270cf196729f0c64044c1d1a18b9a1"
+hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
+preserve = true
 
 [[files]]
 file = "config/quark-common.toml"
@@ -40,14 +47,17 @@ preserve = true
 [[files]]
 file = "config/wover/client.json"
 hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
+preserve = true
 
 [[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "353b1d3f3abd8c3bf5deef9f21e031afd422aa18ff90454e1ee97440ae1c7a50"
+preserve = true
 
 [[files]]
 file = "config/xaerohud.txt"
 hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
+preserve = true
 
 [[files]]
 file = "datapacks/afk_display_v1.1.15_(MC_1.21-1.21.11).zip"
