@@ -6,6 +6,10 @@ hash = "675cf6cae83d1407c4a294c7bb5eb606792913c677afea179aadaaabd42aa498"
 preserve = true
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "9c69d6b2f324350ef1ea1c15cd9a67e75fcce04c8fc51a56bffe265b0b9126d5"
+
+[[files]]
 file = "config/create-client.toml"
 hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 
