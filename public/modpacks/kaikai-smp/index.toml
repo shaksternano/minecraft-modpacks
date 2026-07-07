@@ -21,7 +21,7 @@ hash = "a597a16a8570cff0c361b96078033ebd94270cf196729f0c64044c1d1a18b9a1"
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "e0ce9e4388248aae1f1089bcf432f5a8f9c63bab75d6771e6f0ddb2d72791180"
+hash = "8246ae248c44e42eaf4d80a1d811ac4230111bd372b62beb9b74fcef5c5e69e8"
 preserve = true
 
 [[files]]
