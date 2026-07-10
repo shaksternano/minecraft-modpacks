@@ -46,6 +46,10 @@ hash = "8246ae248c44e42eaf4d80a1d811ac4230111bd372b62beb9b74fcef5c5e69e8"
 preserve = true
 
 [[files]]
+file = "config/simplebackups-common.toml"
+hash = "e5fbcd54de058322899160af8a2906bcaebf3ae8734b2512e8e53bc01609e00f"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
