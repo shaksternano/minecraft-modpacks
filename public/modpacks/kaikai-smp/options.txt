@@ -21,7 +21,7 @@ mipmapLevels:4
 narrator:0
 particles:0
 reducedDebugInfo:false
-renderClouds:"true"
+renderClouds:"false"
 renderDistance:16
 simulationDistance:16
 screenEffectScale:1.0
@@ -162,8 +162,8 @@ key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.unknown
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.variant_selector:key.keyboard.r
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_key.refinedstorage.focus_search_bar:key.keyboard.tab
 key_key.refinedstorage.clear_crafting_grid_matrix_to_network:key.keyboard.x:CONTROL
 key_key.refinedstorage.clear_crafting_grid_matrix_to_inventory:key.keyboard.unknown
@@ -282,10 +282,10 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.zoom:key.keyboard.z
-key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown

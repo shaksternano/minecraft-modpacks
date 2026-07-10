@@ -50,6 +50,10 @@ file = "config/simplebackups-common.toml"
 hash = "e5fbcd54de058322899160af8a2906bcaebf3ae8734b2512e8e53bc01609e00f"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "ba68a49173d6f5eda51da7e446031b66e3abc6b1dbd0e846425f463c6b862147"
+
+[[files]]
 file = "config/sodium-options.json"
 hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
 preserve = true
@@ -800,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c58bad7b31f3da6d07d57963595724ef8663668f3dacb4881dd6644ee09614ba"
+hash = "0c803c8a321fd14751543e214b5484430c9b4aff7bb03686a55854003cf5a256"
 preserve = true
 
 [[files]]
@@ -822,7 +826,7 @@ preserve = true
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
-hash = "2c5481ca57e0861647530a577fd3bc30faa8dcc5740d2f71e4d09b0446f1bbf2"
+hash = "6fb0038df776dbe5fe53705d9fd433f1bcfdd8da1ed7a90c080ab7022bff6488"
 preserve = true
 
 [[files]]
