@@ -61,6 +61,11 @@ hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
 preserve = true
 
 [[files]]
+file = "config/xaero/lib/common.cfg"
+hash = "d46dfe4bfd416bfcdd2b757d33744b4e4595f489b6507eae3c62f5389b11a7c1"
+preserve = true
+
+[[files]]
 file = "config/xaero/minimap/client.cfg"
 hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
 preserve = true
