@@ -42,7 +42,7 @@ preserve = true
 
 [[files]]
 file = "config/quark-common.toml"
-hash = "8246ae248c44e42eaf4d80a1d811ac4230111bd372b62beb9b74fcef5c5e69e8"
+hash = "ba11f55042b2b8ff51893c1ba9d0a8c928dc0660cbbafd51549fb7b622f6cff6"
 preserve = true
 
 [[files]]
