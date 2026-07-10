@@ -61,8 +61,18 @@ hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
 preserve = true
 
 [[files]]
+file = "config/xaero/minimap/client.cfg"
+hash = "80c77d2c2882d29b5ae19be7588b19fd6e9ef6ef1a9b66feda121bde76943263"
+preserve = true
+
+[[files]]
 file = "config/xaero/minimap/profiles/info_display_config/default.cfg.txt"
 hash = "353b1d3f3abd8c3bf5deef9f21e031afd422aa18ff90454e1ee97440ae1c7a50"
+preserve = true
+
+[[files]]
+file = "config/xaero/world-map/client.cfg"
+hash = "6356b70e897df4a4bfcc2dfc2412473693ad429cd72e1c8a754cb95580cef217"
 preserve = true
 
 [[files]]
