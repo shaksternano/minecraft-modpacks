@@ -48,10 +48,12 @@ preserve = true
 [[files]]
 file = "config/simplebackups-common.toml"
 hash = "e5fbcd54de058322899160af8a2906bcaebf3ae8734b2512e8e53bc01609e00f"
+preserve = true
 
 [[files]]
 file = "config/sodium-extra-options.json"
 hash = "ba68a49173d6f5eda51da7e446031b66e3abc6b1dbd0e846425f463c6b862147"
+preserve = true
 
 [[files]]
 file = "config/sodium-options.json"
