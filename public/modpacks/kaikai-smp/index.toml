@@ -306,7 +306,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "381fa439c15498a2befdd26368e7cf18d9cdf304a158148e40cf42b71b16b442"
+hash = "e753411e53ae58f46754b5ef60e70af81a9ec6b5e31f99c47777cc59fbbc5fe4"
 metafile = true
 
 [[files]]
@@ -501,7 +501,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e22f8ce274c0473d3ce96d67766cd9420651d2bd6712371eb025cd2b6e39ec53"
+hash = "6c9d967f0c84a3304ad3fe7223dfcf17c0d2bb2a1da2c879856bf4945dfd92f5"
 metafile = true
 
 [[files]]
@@ -676,7 +676,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "d379a43459f5d24be47e6518a804dcf303b344b9e8a870d30213efd392c7a05e"
+hash = "c490445e40a84c9e19bd3d3a7c8e8b9709b8cea0346a307eb7fb8a32a72a9504"
 metafile = true
 
 [[files]]
@@ -691,12 +691,12 @@ metafile = true
 
 [[files]]
 file = "mods/structory-towers.pw.toml"
-hash = "05cac280ad411f249f192ab5cfa3ae3df7356c0293863e7660ad7db4497381e1"
+hash = "0f4f506b1171a3a7d7b73150721075f5b1bc703c043fa539bcdd72c93e665b94"
 metafile = true
 
 [[files]]
 file = "mods/structory.pw.toml"
-hash = "e2ab46d275b5037d19198f4cff55fe3e4672c3f5c8ca60e91d3b3e57ab13810c"
+hash = "db932c1305a118867474b1f49ad1ca19527e7308d36c9d72ef00ae2200f4bb02"
 metafile = true
 
 [[files]]
@@ -771,12 +771,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3f9e51bfceabca41c537e58b8767bdb4273fdafe9f08bc472ebc255554617ad2"
+hash = "3d282394e31d1144cffcaa864903da227847c59184f3b508e8e3b594f2bdd083"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "67121835339ff35bc213b2ede0375d10de4c1fc9f40c7579a47ebc1a3d050648"
+hash = "0cc5eab0da976be1fc33b8dd225bddd064078a829ec8f361564ec03666354546"
 metafile = true
 
 [[files]]
@@ -791,7 +791,7 @@ metafile = true
 
 [[files]]
 file = "mods/zfastnoise.pw.toml"
-hash = "79aec625604d405d4793a2f6cfba0cac165e8d8b6bea3f08fb54cd3bcd13810b"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
 metafile = true
 
 [[files]]
