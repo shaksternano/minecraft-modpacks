@@ -800,6 +800,76 @@ hash = "539f362e9e192cf3b2813e0dfdfc51a5e6814129c6e82a9733842529beea6242"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "d9c0c9209bac0b693af2a7c1e47ffb28d366bad19c91df31dc6d345fa75250a1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-caves.pw.toml"
+hash = "9bd04b84287a7ceaae9333f87bb4ca3741506ac7bc2851174f5bc1dd4e3dcc70"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "634130ab233121c290fdb2567afd3939af6d98760c11f14db0426b64b8955894"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "4c2830674a08ec9f10af13e4d259aa60158bd306a3996d935e678281ec0cb5fd"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "ee63a5958eb1e0238257e2064d917bdaf8e528a47904bdfbe04a5758a1537e9f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "0cc13a86488cf89d2989edc1636fa63c7efa2fe819246d42af35113458d5ba5b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "c0e40691651465b4eb1037749148c2078123604195e19b582dbef3cd5914e3b1"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "9492d0854c51570bf2a6bace6267262e7573b94c40d721348996617e5d99480a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "1a33e6d64e88ad59b65d126c6457d582e62724167349ea184eb237435298985e"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "e2b23d0a1bf228d37ff8c3330150c24eb19cb875e113fae543191f34ded92ff8"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
+metafile = true
+
+[[files]]
+file = "mods/yungs-cave-biomes.pw.toml"
+hash = "5a334201feff0fb2f76d486399f47d0ce5b5818c284fea895706c92bb2119470"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "2541b092b92a82757e5d200a6093658e20db548bb8583abad3f4506ed04e5ce6"
+metafile = true
+
+[[files]]
+file = "mods/yungs-menu-tweaks.pw.toml"
+hash = "a0d823abe0f59e943433820b7564d69cc453aa64b0ca472d242bd92dcb7cb215"
+metafile = true
+
+[[files]]
 file = "mods/zeta.pw.toml"
 hash = "cb474b6c0dde741836ed4f796f3b6ab0b9d3cdc0453e651122cd002d5d1f8df8"
 metafile = true
