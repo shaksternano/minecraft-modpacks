@@ -47,7 +47,7 @@ preserve = true
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "e5fbcd54de058322899160af8a2906bcaebf3ae8734b2512e8e53bc01609e00f"
+hash = "f97e008c9b33195191fe6516f2f5075cbc22d805fec64954299c5534b8ae0af4"
 preserve = true
 
 [[files]]
