@@ -148,6 +148,10 @@ file = "datapacks/real_time_clock_v1.1.15_(MC_1.21-1.21.11).zip"
 hash = "bbfb968c01b4b0583ba00517afad186da69cc824a0d1c4e86a40f83bfd77641b"
 
 [[files]]
+file = "datapacks/rotton_flesh_to_leather_(MC_1.21).zip"
+hash = "6b206589ee09454a44d99707dde9bef3d1a997ebb8f84f4ca8925c0ddce793f8"
+
+[[files]]
 file = "datapacks/silence_mobs_v1.2.9_(MC_1.21-1.21.11).zip"
 hash = "f10a5d01b4ab1e660c963acc3e51b3615db170fc8dfe89e835fe4f331e8760b5"
 
