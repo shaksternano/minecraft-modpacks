@@ -271,7 +271,7 @@ key_key.ars_nouveau.familiar_toggle:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.i
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
 key_key.aether.invisibility_toggle.desc:key.keyboard.v
-key_gui.xaero_open_map:key.keyboard.world.2
+key_gui.xaero_open_map:key.keyboard.m
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
@@ -282,9 +282,9 @@ key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
 key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
