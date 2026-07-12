@@ -132,7 +132,7 @@ key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
-key_quark.keybind.back:key.mouse.4
+key_quark.keybind.back:key.keyboard.unknown
 key_quark.keybind.camera_mode:key.keyboard.f12
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
