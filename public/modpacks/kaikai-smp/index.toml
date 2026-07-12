@@ -116,10 +116,6 @@ file = "datapacks/custom_nether_portals_v2.3.18_(MC_1.21-1.21.11).zip"
 hash = "a3ac57f9b7d22ac4ec488188e30a677ace233c575047f5735454788f3c44cd8d"
 
 [[files]]
-file = "datapacks/fast_leaf_decay_v2.0.20_(MC_1.21-1.21.11).zip"
-hash = "cfb171363c44fefd06be468256ce82757e40267bd86556484a2f2a201d35f269"
-
-[[files]]
 file = "datapacks/lootr-betterend-compatibility-data-pack.zip"
 hash = "00661dcb3d8209eafc05139d774b7375c8cf09396d22d9f55c3dc6121e19c4c9"
 
@@ -641,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
 hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
+metafile = true
+
+[[files]]
+file = "mods/rapid-leaf-decay.pw.toml"
+hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
 metafile = true
 
 [[files]]
