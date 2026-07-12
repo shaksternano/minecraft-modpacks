@@ -641,7 +641,7 @@ metafile = true
 
 [[files]]
 file = "mods/rapid-leaf-decay.pw.toml"
-hash = "275d8e13b8bea48d95d511067bbf91ce99b38841e4461b44f9017b827dfbd8d2"
+hash = "347566bc94821bfa6fef5a8225ba92aac74f64636ae1dc5ab8a321ee65a7b008"
 metafile = true
 
 [[files]]
