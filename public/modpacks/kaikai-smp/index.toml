@@ -896,7 +896,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "0c803c8a321fd14751543e214b5484430c9b4aff7bb03686a55854003cf5a256"
+hash = "7bab3fb48c323ba50bcc5f5d98c0fddeaac9ee72704e6bdb8b2daca80eceff27"
 preserve = true
 
 [[files]]

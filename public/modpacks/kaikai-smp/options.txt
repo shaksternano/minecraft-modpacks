@@ -2,7 +2,7 @@ version:3955
 ao:true
 biomeBlendRadius:7
 enableVsync:false
-entityDistanceScaling:5.0
+entityDistanceScaling:1.0
 entityShadows:true
 forceUnicodeFont:false
 japaneseGlyphVariants:false
@@ -22,7 +22,7 @@ narrator:0
 particles:0
 reducedDebugInfo:false
 renderClouds:"false"
-renderDistance:16
+renderDistance:12
 simulationDistance:16
 screenEffectScale:1.0
 soundDevice:""
@@ -127,7 +127,6 @@ key_key.walkers:key.keyboard.g
 key_key.walkers_unlock:key.keyboard.u
 key_key.walkers_variants:key.keyboard.v
 key_key.remorphed_menu:key.keyboard.grave.accent
-key_key.modernfix.config:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
@@ -162,8 +161,8 @@ key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.unknown
 key_quark.keybind.narrator_readout:key.keyboard.unknown
 key_quark.keybind.narrator_full_readout:key.keyboard.unknown
-key_quark.keybind.variant_selector:key.keyboard.r
 key_supplementaries.keybind.quiver:key.keyboard.v
+key_quark.keybind.variant_selector:key.keyboard.r
 key_key.refinedstorage.focus_search_bar:key.keyboard.tab
 key_key.refinedstorage.clear_crafting_grid_matrix_to_network:key.keyboard.x:CONTROL
 key_key.refinedstorage.clear_crafting_grid_matrix_to_inventory:key.keyboard.unknown
@@ -272,7 +271,7 @@ key_key.ars_nouveau.familiar_toggle:key.keyboard.unknown
 key_key.aether.open_accessories.desc:key.keyboard.i
 key_key.aether.gravitite_jump_ability.desc:key.keyboard.space
 key_key.aether.invisibility_toggle.desc:key.keyboard.v
-key_gui.xaero_open_map:key.keyboard.m
+key_gui.xaero_open_map:key.keyboard.world.2
 key_gui.xaero_open_settings:key.keyboard.right.bracket
 key_gui.xaero_world_map_server_settings:key.keyboard.unknown
 key_gui.xaero_map_zoom_in:key.keyboard.unknown
@@ -282,9 +281,9 @@ key_gui.xaero_toggle_dimension:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
 key_key.twilightforest.zoom:key.keyboard.z
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
@@ -322,7 +321,7 @@ key_key.buildinggadgets2.anchor:key.keyboard.unknown
 key_key.buildinggadgets2.range:key.keyboard.r
 key_key.craftpresence.config_keycode.name:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:1.0
+soundCategory_music:0.5
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
