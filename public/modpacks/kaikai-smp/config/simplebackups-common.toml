@@ -39,7 +39,7 @@ sendMessages = false
 #The max size of storage the backup folder. If it takes more storage, old files will be deleted.
 #Needs to be written as <number><space><storage type>
 #Valid storage types: B, KB, MB, GB, TB
-maxDiskSize = "200 GB"
+maxDiskSize = "100 GB"
 #Used to define the output path.
 outputPath = "backups"
 #Create backups, even if nobody is online
