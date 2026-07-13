@@ -47,7 +47,7 @@ preserve = true
 
 [[files]]
 file = "config/simplebackups-common.toml"
-hash = "f97e008c9b33195191fe6516f2f5075cbc22d805fec64954299c5534b8ae0af4"
+hash = "6f61ce7dbf86d739cd19b7bfa886c5a89b6f6e5c458b6a322bbd916d2f3b596d"
 preserve = true
 
 [[files]]
@@ -692,6 +692,11 @@ metafile = true
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "0bef7b3dd4758a661d3e6827bd390c12ff8a3ede4a66bb2e01e3c760f02bd509"
+metafile = true
+
+[[files]]
+file = "mods/simple-backups.pw.toml"
+hash = "b3b444ca79a5786d5c7589a7119fcf4c3e4cf73c70860c17acb63c88fc06749a"
 metafile = true
 
 [[files]]

@@ -76,7 +76,7 @@ useTickCounter = false
 	#Specific files that should be excluded from backups
 	#Format: Enter complete file paths relative to the world directory (e.g., 'level.dat_old', 'stats/player.json')
 	#Use this for individual files rather than entire directories
-	ignored_files = []
+	ignored_files = ["DistantHorizons.sqlite", "DistantHorizons.sqlite-shm", "DistantHorizons.sqlite-wal"]
 	#Regular expression pattern to exclude matching files from backups
 	#All files with paths matching this pattern will be skipped
 	#Example: '.*\.temp$' excludes all files ending with .temp
