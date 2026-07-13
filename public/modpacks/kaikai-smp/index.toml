@@ -66,6 +66,11 @@ hash = "1b9e5bcd1d45cccf02a5878ce8833a977d3b938c45138f5ffdc435e848fc64a3"
 preserve = true
 
 [[files]]
+file = "config/walkers.json5"
+hash = "561d65badf3364e188d59c26bb7237e4d6024ecba7036e4829ed7e7c0da427c6"
+preserve = true
+
+[[files]]
 file = "config/wover/client.json"
 hash = "bf81862fb847343fefd94fd369f4ea7c327b20815e113da276ed0225161d1f9c"
 preserve = true
