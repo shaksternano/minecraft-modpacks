@@ -680,6 +680,11 @@ hash = "965be657a8f7717b4f09f750d73c070705caf94a4d3dd5715b865efcefed6d23"
 metafile = true
 
 [[files]]
+file = "mods/retrogen.pw.toml"
+hash = "30a6a480cc7e1666232dfb823ed6a7fe48682c9b6407ce515efef265b4e4ccf4"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
