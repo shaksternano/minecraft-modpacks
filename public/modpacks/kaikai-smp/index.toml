@@ -21,6 +21,10 @@ hash = "a24ca52e9c93885f97f5cea636b5f34fc7be72d800b20aee21ad4e9bc10b97dc"
 preserve = true
 
 [[files]]
+file = "config/createharmonics-client.toml"
+hash = "dca4a13a6d906d9e422df58ec8a4d3cf2822accdb4be56bb1f3d2d277aa06cec"
+
+[[files]]
 file = "config/iris.properties"
 hash = "41bbb385bbe72d834bd620c3659dee5a9f91922b773ce9b25ae7bb650e974f2c"
 preserve = true
