@@ -695,6 +695,11 @@ hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
 metafile = true
 
 [[files]]
+file = "mods/reliquified-ars-nouveau.pw.toml"
+hash = "a92cdd66515ce0f2e15722dd41982a976161a3c751616cd5f0602f681580f9f8"
+metafile = true
+
+[[files]]
 file = "mods/reliquified-artifacts.pw.toml"
 hash = "af3e9bfe6f9322502910782746e67774ae57ce6103356a14bdd08aeaff1d5fc1"
 metafile = true
