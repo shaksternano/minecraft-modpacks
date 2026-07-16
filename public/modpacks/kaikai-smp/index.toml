@@ -340,6 +340,11 @@ hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
 
 [[files]]
+file = "mods/cosmetic-armor-reworked.pw.toml"
+hash = "b65ee01fec17228645121952de6dec75053b0b4c59a8c8036d6fa7829819f3f9"
+metafile = true
+
+[[files]]
 file = "mods/crafted-core.pw.toml"
 hash = "e050794e933174b7ecbad14a1459c54d77f80f7c19dbfe3e11a59e68d6d30ac1"
 metafile = true
