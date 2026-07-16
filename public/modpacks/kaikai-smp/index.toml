@@ -390,6 +390,11 @@ hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
 metafile = true
 
 [[files]]
+file = "mods/create-harmonics.pw.toml"
+hash = "780ecc3099354cc648ae284972802d68c59f59e381e9bc8f021cf332f7f21433"
+metafile = true
+
+[[files]]
 file = "mods/create-propulsion-simulated.pw.toml"
 hash = "b3adf7e1a518ce4e49332c3d5855d5c9cdc4ff10a31dc652e5daa85d8f33a619"
 metafile = true
