@@ -695,6 +695,11 @@ hash = "5d2ebe2ac7d9436d1c5df0fbb2a1b975196d41a3090065b3c569aaac4fc11430"
 metafile = true
 
 [[files]]
+file = "mods/reliquified-artifacts.pw.toml"
+hash = "af3e9bfe6f9322502910782746e67774ae57ce6103356a14bdd08aeaff1d5fc1"
+metafile = true
+
+[[files]]
 file = "mods/remorphed.pw.toml"
 hash = "965be657a8f7717b4f09f750d73c070705caf94a4d3dd5715b865efcefed6d23"
 metafile = true
