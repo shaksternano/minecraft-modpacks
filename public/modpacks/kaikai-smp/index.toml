@@ -74,6 +74,10 @@ hash = "ba11f55042b2b8ff51893c1ba9d0a8c928dc0660cbbafd51549fb7b622f6cff6"
 preserve = true
 
 [[files]]
+file = "config/relics.yaml"
+hash = "a99ad6248bf0f596bd577b3c02135889b7421ce1f6872180df6ed627e43cb2aa"
+
+[[files]]
 file = "config/simplebackups-common.toml"
 hash = "59b9fad8f575d8aafd5b3cb58d36b41ce1e9cf39b038d30cf46bd71aaaf5d116"
 preserve = true
