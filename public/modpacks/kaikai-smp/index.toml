@@ -11,6 +11,30 @@ hash = "ac8f937ba871a54575e324815793e48b421af88993d3571768626c38772dceef"
 preserve = true
 
 [[files]]
+file = "config/bluemap/maps/world.conf"
+hash = "d8f88460934e498f1dfc3e9c33d8300d8fdb0db94b9b32f4f77acb233dbc3516"
+
+[[files]]
+file = "config/bluemap/maps/world_aether_the_aether.conf"
+hash = "8451bb97ab4323b50ec088c5196a1ab5f5b38a624431a86f4435f5121d4f6dec"
+
+[[files]]
+file = "config/bluemap/maps/world_deeperdarker_otherside.conf"
+hash = "17a01e51c822b560aa38a005cf5f1c973aa146c6a4eda1a41e6347e15a4f0bbe"
+
+[[files]]
+file = "config/bluemap/maps/world_the_end.conf"
+hash = "42e4759debb32acd56ab19b27be7375d46267cca0e1e107b09d6f99f12daf1d9"
+
+[[files]]
+file = "config/bluemap/maps/world_the_nether.conf"
+hash = "113e16c12912c6445737154550534c4260962d5d0533000435fa68faa57d8c71"
+
+[[files]]
+file = "config/bluemap/maps/world_twilightforest_twilight_forest.conf"
+hash = "154a3b444b2071f267468d49f86d5d3544672e349b329f8b8e7d3bf056ce6b3f"
+
+[[files]]
 file = "config/controlify.json"
 hash = "ff50ce67c836a4d8bc1a8167278142d6eb876d55696469b621b52efe9329aa1a"
 preserve = true
