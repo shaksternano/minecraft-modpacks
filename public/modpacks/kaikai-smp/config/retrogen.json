@@ -1,0 +1,21 @@
+{
+    "enabled": false,
+    "generateOres": true,
+    "generateStructures": true,
+    "adaptStructuresToExistingTerrain": true,
+    "maxOperationsPerTick": 2,
+    "maxMillisPerTick": 8,
+    "structureReferenceRadius": 8,
+    "maxTerrainShift": 96,
+    "maxTerrainSampleSpread": 32,
+    "maxInhabitedTimeTicks": -1,
+    "automaticNamespaces": [],
+    "excludedNamespaces": [
+        "minecraft",
+        "retrogen"
+    ],
+    "includePlacedFeatures": [],
+    "excludePlacedFeatures": [],
+    "includeStructures": [],
+    "excludeStructures": []
+}

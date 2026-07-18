@@ -74,8 +74,16 @@ hash = "ba11f55042b2b8ff51893c1ba9d0a8c928dc0660cbbafd51549fb7b622f6cff6"
 preserve = true
 
 [[files]]
+file = "config/ragdoll_reactions-server.toml"
+hash = "ce453b37a0db5edf55b988463567d89a0121200ceab554c55e13749e6abec586"
+
+[[files]]
 file = "config/relics.yaml"
 hash = "a99ad6248bf0f596bd577b3c02135889b7421ce1f6872180df6ed627e43cb2aa"
+
+[[files]]
+file = "config/retrogen.json"
+hash = "614141cb0c600988acf9005a651aed3fd3a0db950eb4243339a6cd38a9e74748"
 
 [[files]]
 file = "config/simplebackups-common.toml"
