@@ -670,6 +670,11 @@ hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
 metafile = true
 
 [[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "583a335211bc3a21bb379394344b67d64bffea421e7f7942c254903e1d607814"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "51e129832b04acd57da470fc41725bad5e101b6a6b1d4901fd8ea7a92b14e13d"
 metafile = true
@@ -770,6 +775,11 @@ hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
 metafile = true
 
 [[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "6be463e57622036302e6555834d4b915e9d0407ce646a20edc770901111eca0d"
+metafile = true
+
+[[files]]
 file = "mods/quark.pw.toml"
 hash = "c5f891f486c303cae5fb41223bdc54e8c8c9da259f5c950c23df8b8ebdc40eea"
 metafile = true
@@ -777,11 +787,6 @@ metafile = true
 [[files]]
 file = "mods/ragdoll-reactions.pw.toml"
 hash = "89bd0f15795c70a1e06074e22bc5d80969abd48e1f540c79e3023cf8be51bef9"
-metafile = true
-
-[[files]]
-file = "mods/rapid-leaf-decay.pw.toml"
-hash = "347566bc94821bfa6fef5a8225ba92aac74f64636ae1dc5ab8a321ee65a7b008"
 metafile = true
 
 [[files]]
