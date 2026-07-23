@@ -335,6 +335,11 @@ hash = "88908286eebea979713b5626891f634317fcc4c5a5bd4ec0c9444a33863a4518"
 metafile = true
 
 [[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "3a9295215e3a815a0dd459a04ca8e9ac39eefed7e6fa7c08eb53165f5f3b165b"
+metafile = true
+
+[[files]]
 file = "mods/cat-jammies.pw.toml"
 hash = "e2c769261640c924e8f6e24e02f931f5163206e75bfcdb5d5233a7ee8dd335f2"
 metafile = true
