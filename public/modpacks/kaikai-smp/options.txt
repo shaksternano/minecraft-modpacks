@@ -155,8 +155,8 @@ key_quark.keybind.patreon_emote.dab:key.keyboard.unknown
 key_quark.keybind.patreon_emote.jet:key.keyboard.unknown
 key_quark.keybind.patreon_emote.exorcist:key.keyboard.unknown
 key_quark.keybind.patreon_emote.zombie:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.change_hotbar:key.keyboard.z
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.sort_player:key.keyboard.unknown
 key_quark.keybind.sort_container:key.keyboard.unknown
 key_quark.keybind.lock_rotation:key.keyboard.unknown
@@ -286,11 +286,11 @@ key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
 key_key.relics.research_relic:key.keyboard.left.shift
-key_key.relics.active_abilities_list:key.keyboard.left.alt
-key_key.twilightforest.swap_hotbar:key.keyboard.v
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
-key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
+key_key.relics.active_abilities_list:key.keyboard.unknown
 key_key.twilightforest.zoom:key.keyboard.z
+key_key.twilightforest.item_display_map_cycle:key.keyboard.unknown
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
 key_key.ok_zoomer.increase_zoom:key.keyboard.unknown
