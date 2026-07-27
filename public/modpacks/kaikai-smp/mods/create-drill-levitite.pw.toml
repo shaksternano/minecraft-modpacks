@@ -1,0 +1,13 @@
+name = "Create: Drill Levitite"
+filename = "create-drill_levitite-1.2.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/W9MaNsjj/versions/95VdlC60/create-drill_levitite-1.2.0.jar"
+hash-format = "sha512"
+hash = "ad55ff047cf0467847673a5a271b4881eec6c65709547a4fd9a2ed8c0872d83c79d0e1add7a9b17646c5b31f4b4eb8ac5d4d6113cfd1547f841a26cb042914ba"
+
+[update]
+[update.modrinth]
+mod-id = "W9MaNsjj"
+version = "95VdlC60"

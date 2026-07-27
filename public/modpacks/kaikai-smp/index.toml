@@ -460,6 +460,11 @@ hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
 metafile = true
 
 [[files]]
+file = "mods/create-drill-levitite.pw.toml"
+hash = "f437958883da2b54b6b587b5163951f62405f4904d4443e581bc6e4ff31fb44f"
+metafile = true
+
+[[files]]
 file = "mods/create-harmonics.pw.toml"
 hash = "780ecc3099354cc648ae284972802d68c59f59e381e9bc8f021cf332f7f21433"
 metafile = true
