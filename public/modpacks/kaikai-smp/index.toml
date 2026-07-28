@@ -575,6 +575,11 @@ hash = "c59b4ddb08c9f5e86ca1bce7fb0b5bf6d47afa1f3fd44e4adac28f3fcc88c756"
 metafile = true
 
 [[files]]
+file = "mods/euphoria-patches.pw.toml"
+hash = "c5bb130a9bc6f565c90f5ceeec03bee73a4eaae801a7e44364941dff8b8502d4"
+metafile = true
+
+[[files]]
 file = "mods/extrastorage.pw.toml"
 hash = "3e2431756f4544ca4f040d2f85d53433167a63eb606dfbeb8575548cc0b09e10"
 metafile = true
