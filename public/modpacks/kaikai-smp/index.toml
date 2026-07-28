@@ -1010,6 +1010,11 @@ hash = "81c5c05f9ed4c07b9f027ff6c421939bb04e476075091f135d34aaa05af1f950"
 metafile = true
 
 [[files]]
+file = "mods/the-chud-whisperer.pw.toml"
+hash = "f511d68c843cd0ce3269b2a149917ed9684973dec8ad9a857f97e1d264247cba"
+metafile = true
+
+[[files]]
 file = "mods/the-twilight-forest.pw.toml"
 hash = "9088f93a00bc3242f0239a7115bdcbc4480e19c6120f5396fb3af27d77abda3e"
 metafile = true

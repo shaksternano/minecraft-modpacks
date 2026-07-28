@@ -1,0 +1,13 @@
+name = "The Chud Whisperer"
+filename = "chud-whisperer-1.1.1-fabric-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/F2X309O5/versions/ENhadtaf/chud-whisperer-1.1.1-fabric-1.21.1.jar"
+hash-format = "sha512"
+hash = "96699555a64e5df03313e9a987ca4083df76ede15ee5c66364347711f873a00c6a0862f360605d69e65ae0d2031ea984c4bdd1342ff90eabac6734276271ce15"
+
+[update]
+[update.modrinth]
+mod-id = "F2X309O5"
+version = "ENhadtaf"
