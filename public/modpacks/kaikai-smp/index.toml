@@ -445,6 +445,11 @@ hash = "ff5cc2cb323fcfc334b4975b2d23ddffa01a6c42fb9b73128f7409bc617d9f4b"
 metafile = true
 
 [[files]]
+file = "mods/create-alcohol-industry.pw.toml"
+hash = "b1ce7d9a767b2179896761aa3a01035099d0f42c15b9370c06c677cb8fd2e477"
+metafile = true
+
+[[files]]
 file = "mods/create-big-cannons.pw.toml"
 hash = "a0e9ff95570cd9af3374ca8b44aa095447baf94e565f46ae99819d52a9b48dc1"
 metafile = true
