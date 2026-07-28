@@ -1,0 +1,13 @@
+name = "ReEstrogen Additions"
+filename = "reestrogen_additions-1.0.9-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o174IBMb/versions/4yDuac6Q/reestrogen_additions-1.0.9-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "8db06e2ae643e39835897acc1d27d0381f61e9a6d150e1b9fa352d165a2bd2e51a2716d5ee790f9322dde78977b61d7ab92e612bce4edbda82379d74f4df4456"
+
+[update]
+[update.modrinth]
+mod-id = "o174IBMb"
+version = "4yDuac6Q"

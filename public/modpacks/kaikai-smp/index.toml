@@ -835,6 +835,16 @@ hash = "ae1a00455be0edadffea3e272b43a7d8080a501fc4fe0e3e8ff91bb81903d6e6"
 metafile = true
 
 [[files]]
+file = "mods/reestrogen-additions.pw.toml"
+hash = "e1f7ccea9a106cc5f5f7826cf798cbf582419308544135402ac24e814a763b1c"
+metafile = true
+
+[[files]]
+file = "mods/reestrogen.pw.toml"
+hash = "2b8188315b962c223c74ece22aa3a45e59c5a5356b2bf19f500355d9651b3bbe"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage-jei-integration.pw.toml"
 hash = "fd3e3dd73614b09899f5a445f989fd4f43c36a67e6a4c986f1263edbc5239944"
 metafile = true

@@ -1,0 +1,13 @@
+name = "ReEstrogen"
+filename = "reestrogen-3.0.4-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BGUYUAbf/versions/IWBCOVJW/reestrogen-3.0.4-neoforge-1.21.1.jar"
+hash-format = "sha512"
+hash = "959e5af620c54118f42ab05c01f63f3fa636a772ef15375b88c401b7d08b051d8f65364ad91e5d14ca7cd8fcc6f015ee81e65695494bceff91866349e00734c4"
+
+[update]
+[update.modrinth]
+mod-id = "BGUYUAbf"
+version = "IWBCOVJW"
