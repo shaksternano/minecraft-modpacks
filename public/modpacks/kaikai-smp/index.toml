@@ -430,6 +430,11 @@ hash = "ef9a6da83be95d05a9328f74e3ef7378d7a5c82f191001bce69efb220f6c2498"
 metafile = true
 
 [[files]]
+file = "mods/create-addictives.pw.toml"
+hash = "747a71359ec7a07246e2f76b3af3169c4f8b9c1fd2c350ba4dceb7b816d1eb3f"
+metafile = true
+
+[[files]]
 file = "mods/create-aero-cables.pw.toml"
 hash = "7e5b200717b68acfe9d984feccf9ab67064a6bd0753e0ce332fd8459f1de8464"
 metafile = true
