@@ -875,6 +875,11 @@ hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/rsinfinitybooster.pw.toml"
+hash = "235ff3215c33cedf10466ed239f584ff2684fd1a835baeb80ae27f9f214a7f22"
+metafile = true
+
+[[files]]
 file = "mods/sable-ragdolls.pw.toml"
 hash = "bf3c84eff52457596d58a73882e72759804117f0731a0fde343cfd54d33e55ba"
 metafile = true
