@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/iris.properties"
+hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "9bc3807d34ba58c5fab2d5ebf1d795c1212b0706dabcdda16a7a3684c8973c1e"
 metafile = true
@@ -320,3 +324,12 @@ hash = "c2dc727ea4d4d023729f0b88e798085d735af9054468ff1f0bb4d98473673fcc"
 [[files]]
 file = "resourcepacks/vanilla_tweaks_resource_pack_26.2.zip"
 hash = "ab6603eff730b9824464acee9301b5111cc4ffa81865f076d40611bfcfee13ec"
+
+[[files]]
+file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
+hash = "6fb0038df776dbe5fe53705d9fd433f1bcfdd8da1ed7a90c080ab7022bff6488"
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
+metafile = true
