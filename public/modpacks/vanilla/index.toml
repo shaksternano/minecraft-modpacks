@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
+
+[[files]]
 file = "config/minihud.json"
 hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
 
