@@ -61,6 +61,11 @@ hash = "57ec34a7f37b99e4638f5214d1de0bef916e981743d3648c57cad1e8e399982b"
 metafile = true
 
 [[files]]
+file = "mods/controlify.pw.toml"
+hash = "6868b0f421f04aa2bf6df972ce0f32520fa9e43504b2ab62020c6659774f09ec"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "5174fd5c280c4e4a889a6c330bbb00fb81ed1a94a47ae8543fc04f4ea7337626"
 metafile = true
@@ -283,4 +288,9 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
