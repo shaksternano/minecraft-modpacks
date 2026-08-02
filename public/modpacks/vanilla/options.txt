@@ -64,7 +64,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","continuity:default","continuity:glass_pane_culling_fix"]
+resourcePacks:["vanilla","file/vanilla_tweaks_resource_pack_26.2.zip","file/3d_models_26.2.zip","file/enchantment_textures_pack_26.2.zip","continuity:default","continuity:glass_pane_culling_fix"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_gb

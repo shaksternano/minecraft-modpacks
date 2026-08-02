@@ -307,4 +307,16 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "31e080226682767fa141f2f9bef3be4b642a038741b77b50d3ffa30f3e2a60b4"
+hash = "7338f5c54e2ef7c61735b4b78a6533371c3db4da2e2d0b40d55b4ef3fb092aff"
+
+[[files]]
+file = "resourcepacks/3d_models_26.2.zip"
+hash = "7bf0ec891b2cb1b3120f3310ccd2a8eb5fd6cf787a9f1ac2b2e005e66d07ae44"
+
+[[files]]
+file = "resourcepacks/enchantment_textures_pack_26.2.zip"
+hash = "c2dc727ea4d4d023729f0b88e798085d735af9054468ff1f0bb4d98473673fcc"
+
+[[files]]
+file = "resourcepacks/vanilla_tweaks_resource_pack_26.2.zip"
+hash = "ab6603eff730b9824464acee9301b5111cc4ffa81865f076d40611bfcfee13ec"
