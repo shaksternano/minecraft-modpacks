@@ -7,6 +7,7 @@ export default defineConfig({
         prerender: {
             crawlLinks: true,
         },
+        preset: "nitro-prerender",
     },
     vite: {
         plugins: [
