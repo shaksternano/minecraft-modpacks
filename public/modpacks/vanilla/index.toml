@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
 
 [[files]]
+file = "config/minihud.json"
+hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "ba68a49173d6f5eda51da7e446031b66e3abc6b1dbd0e846425f463c6b862147"
 
