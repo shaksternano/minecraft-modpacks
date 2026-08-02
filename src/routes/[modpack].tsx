@@ -9,7 +9,16 @@ export default function Modpack() {
     const modpack = createAsync(() => getModpackQuery(modpackId));
 
     if (modpack() === null) {
-        return <Navigate href="/"/>;
+        return (
+            <main class="relative flex flex-col gap-8 items-center p-10">
+                <h2 class="text-5xl">
+                    Modpack not found
+                </h2>
+                <A href="/" class="absolute top-4 left-4 underline">
+                    Home
+                </A>
+            </main>
+        );
     }
 
     const mods = createAsync(() => getModsQuery(modpackId));
@@ -31,7 +40,7 @@ export default function Modpack() {
                 </For>
             </ul>
             <A href="/" class="absolute top-4 left-4 underline">
-                Back
+                Home
             </A>
         </main>
     )
