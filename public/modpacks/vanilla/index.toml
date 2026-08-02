@@ -66,6 +66,11 @@ hash = "6868b0f421f04aa2bf6df972ce0f32520fa9e43504b2ab62020c6659774f09ec"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2effcd5897e9e3708e4a0c79db418fba3cae0e19f602c5a2da9c7e3882d20dae"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "5174fd5c280c4e4a889a6c330bbb00fb81ed1a94a47ae8543fc04f4ea7337626"
 metafile = true
@@ -223,6 +228,11 @@ metafile = true
 [[files]]
 file = "mods/scalablelux.pw.toml"
 hash = "fda2f23dc5a311460c9a277922fbb94ccfd6adbde2b74cc395a467f51523b90f"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "18d343982316153f5b40b9d2e0e6ac3884b873774eec756ff67e891a4d3c22b9"
 metafile = true
 
 [[files]]
