@@ -5,6 +5,10 @@ file = "config/iris.properties"
 hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
 
 [[files]]
+file = "config/lambdabettergrass.toml"
+hash = "7efadad25f67fc9edf27aa0fdbcc9b499a3282d62be85eaa6328e2100d397065"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
 
