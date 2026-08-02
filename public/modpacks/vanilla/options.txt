@@ -94,7 +94,7 @@ allowCursorChanges:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
 hideMatchedNames:true
-joinedFirstServer:false
+joinedFirstServer:true
 syncChunkWrites:true
 showAutosaveIndicator:true
 allowServerListing:true
@@ -222,6 +222,7 @@ key_iris.keybind.reload:key.keyboard.r
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.i
 key_iris.keybind.wireframe:key.keyboard.unknown
+key_lambdynlights.key.toggle_fps_dynamic_lighting:key.keyboard.unknown
 key_key.craftpresence.config_keycode.name:key.keyboard.grave.accent
 soundCategory_master:1.0
 soundCategory_music:0.25
