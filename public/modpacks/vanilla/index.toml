@@ -304,3 +304,7 @@ metafile = true
 file = "mods/yacl.pw.toml"
 hash = "b08ea22923b8ccf2fbeb020cb532487be60c2dd75dd8e1c04e14deb66c118bba"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "31e080226682767fa141f2f9bef3be4b642a038741b77b50d3ffa30f3e2a60b4"
