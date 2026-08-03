@@ -110,6 +110,11 @@ hash = "a946782eaf098f7ca81432c6fa66d37839621766a0aa74d61dbffe110741e637"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-groups.pw.toml"
 hash = "65d9fc6d087bfabafea0dce32e6d37d6d355f9c194beed94e8771cb2dfae7e1f"
 metafile = true
