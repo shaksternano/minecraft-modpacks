@@ -365,6 +365,11 @@ hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
 
 [[files]]
+file = "shaderpacks/sildurs-vibrant-shaders.pw.toml"
+hash = "8b478cddc565e190218616a347e172f3207e184f47ab9cf5fed80d64d6073332"
+metafile = true
+
+[[files]]
 file = "shaderpacks/tea-shaders.pw.toml"
 hash = "7a895253174d642164848765a41bccda7d162268794e9987adbf57e205d4e8e8"
 metafile = true
