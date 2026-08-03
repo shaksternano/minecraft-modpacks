@@ -1,0 +1,3 @@
+emissive_B=0.5
+emissive_G=0.7
+emissive_R=1.1

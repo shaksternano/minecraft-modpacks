@@ -1197,6 +1197,10 @@ hash = "6fb0038df776dbe5fe53705d9fd433f1bcfdd8da1ed7a90c080ab7022bff6488"
 preserve = true
 
 [[files]]
+file = "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip.txt"
+hash = "060fb01b3cdfcf2f04ec30fe5f38f19ce55b6849c7d45571f3253dd4cc3e318b"
+
+[[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
 hash = "ea258ed5bf495d9017eeadc3cbf9bd67b1e672d843826bc077135548b5bc699e"
 metafile = true
