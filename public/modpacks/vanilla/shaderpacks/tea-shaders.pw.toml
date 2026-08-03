@@ -1,0 +1,13 @@
+name = "Tea Shaders"
+filename = "Tea_V2.0.0_Dev10.zip"
+side = "client"
+
+[download]
+hash-format = "sha1"
+hash = "d16b08a6e7fd00d19ad9ad28dceddd8c3c960448"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7957318
+project-id = 331780
