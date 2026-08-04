@@ -211,7 +211,7 @@ key_wynntils.keybind.toggleFavorite:key.keyboard.unknown
 key_wynntils.keybind.lockSlot:key.keyboard.h
 key_wynntils.keybind.screenshotItem:key.keyboard.f4
 key_wynntils.keybind.openGuildMap:key.keyboard.j
-key_wynntils.keybind.openMainMap:key.keyboard.m
+key_wynntils.keybind.openMainMap:key.keyboard.world.2
 key_wynntils.keybind.newWaypoint:key.keyboard.b
 key_wynntils.keybind.minimapZoomIn:key.keyboard.equal
 key_wynntils.keybind.minimapZoomOut:key.keyboard.minus
@@ -223,8 +223,8 @@ key_wynntils.keybind.holdToCompare:key.keyboard.keypad.enter
 key_wynntils.keybind.selectForComparing:key.keyboard.keypad.add
 key_wynntils.keybind.quickSearchTradeMarket:key.mouse.middle
 key_wynntils.keybind.openTerritoryMenu:key.keyboard.u
-key_wynntils.keybind.openContentBook:key.keyboard.k
-key_wynntils.keybind.openWynntilsMenu:key.keyboard.i
+key_wynntils.keybind.openContentBook:key.keyboard.unknown
+key_wynntils.keybind.openWynntilsMenu:key.keyboard.left.alt
 key_wynntils.keybind.openOverlayMenu:key.keyboard.unknown
 key_wynntils.keybind.openOverlayFreeMove:key.keyboard.unknown
 key_wynntils.keybind.emoteWheel:key.keyboard.unknown
