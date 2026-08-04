@@ -36,7 +36,7 @@ hash = "154a3b444b2071f267468d49f86d5d3544672e349b329f8b8e7d3bf056ce6b3f"
 
 [[files]]
 file = "config/controlify.json"
-hash = "ff50ce67c836a4d8bc1a8167278142d6eb876d55696469b621b52efe9329aa1a"
+hash = "4c5f1d925dbc857d7417870891ef5b664a3b81cbd9c6eb8eba62d510cf46e9b8"
 preserve = true
 
 [[files]]
