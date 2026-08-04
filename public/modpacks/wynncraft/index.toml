@@ -6,27 +6,27 @@ hash = "57206a1a116b2037b765a21747f2d3d5ddbf0f6d81a63c59c6ea2187eb72ad2f"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
+hash = "78e395a2a6d463e50fdc2ad6072265ab12c338acc57348d62fdf02911f3741f3"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
-hash = "7efadad25f67fc9edf27aa0fdbcc9b499a3282d62be85eaa6328e2100d397065"
+hash = "54592dcc65d7ca2221e5de5156460f2d0ce73c8aee1a11a610374c45972df572"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
+hash = "05c58ba3d5e8432d0a4f335c79407c1a4ccbb6effcdf8ba07e481f78eb90b490"
 
 [[files]]
 file = "config/minihud.json"
-hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
+hash = "0b46e7425e95ee30ac9c95b7d41c7c48d79f0bf3644f669ca5194a1a9516a831"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "ba68a49173d6f5eda51da7e446031b66e3abc6b1dbd0e846425f463c6b862147"
+hash = "3a4b5c17bb04051021bea23990031fc25080d6b1eaf2689337c1ba56dd108e01"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
+hash = "5abfdcd93979c010f01c54ee26506d4feb28bafb8ee59bdba6518865bfc79546"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
