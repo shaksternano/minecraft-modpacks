@@ -14,23 +14,23 @@ hash = "7efadad25f67fc9edf27aa0fdbcc9b499a3282d62be85eaa6328e2100d397065"
 
 [[files]]
 file = "config/lambdynlights.toml"
-hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
+hash = "e4605dbba3c7b58cf8fd27174906bdf458ce214333d9152abd76027e974eb94d"
 
 [[files]]
 file = "config/malilib.json"
-hash = "86599b75df5178d2220f853606199c210e1d5bdd4966ea403342d1fdb32fed54"
+hash = "7bff90c7de21cf7ef7a2ed3cfba5f041082458eca0b437b64caf23dbf5f44c04"
 
 [[files]]
 file = "config/minihud.json"
-hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
+hash = "7bff90c7de21cf7ef7a2ed3cfba5f041082458eca0b437b64caf23dbf5f44c04"
 
 [[files]]
 file = "config/sodium-extra-options.json"
-hash = "ba68a49173d6f5eda51da7e446031b66e3abc6b1dbd0e846425f463c6b862147"
+hash = "87cb012dd1cebb7c7ba7a5bfdd8acc3dc4ae5ce2343d6bb9e18acbfa09815507"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "58b96b4a4b70e2ff67902bdf21dee10606823499db6af2a6e1fcb48c6453c11a"
+hash = "a5b399d3308d3eafa5cf53d78a7c33ac01eb536dbdb1e7914768676a2963d677"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
