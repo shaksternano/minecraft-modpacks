@@ -1176,15 +1176,15 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/3d_models_1.21.zip"
-hash = "9ce91a9aaaee62f92175f8304dcf8250d46970b185117ea8e50a2adabadaa7d1"
+hash = "12aed554567427e65a0f6f180171e19a9bc03e6c5cceeb32d50a3599ed1c88d8"
 
 [[files]]
 file = "resourcepacks/enchantment_textures_pack_1.21.zip"
-hash = "fbdecea49767ef00c340a2024121f062dc82f64991c7d8f3284570ec99736dab"
+hash = "ffe42cd48483bff89c6ae17aed1dfad022d3817656935d48b1b82b7ce292365b"
 
 [[files]]
 file = "resourcepacks/vanilla_tweaks_resource_pack_1.21.zip"
-hash = "dfb3d72ffca5fb7eb425ab85d2838a489242fb736cba33a6c89965455a531d4c"
+hash = "8e0a215f8f58709eb5b8b8e80bda174bf782645d01fb724bea17d93b3228d5c5"
 
 [[files]]
 file = "servers.dat"
