@@ -305,7 +305,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "a066a965adaa5c05d0324de24706ae39f97c5868a46f59b22f83f585c4dcac33"
+hash = "71eca10fdbae41cf6890efed974f35f2ccf03badf2f2cb2b64127b332c0838fa"
 
 [[files]]
 file = "resourcepacks/3d_models_1.21.zip"

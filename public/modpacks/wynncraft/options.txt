@@ -182,7 +182,7 @@ key_key.wynncraft-spell-caster.spell.second:key.keyboard.unknown
 key_key.wynncraft-spell-caster.spell.third:key.keyboard.unknown
 key_key.wynncraft-spell-caster.spell.fourth:key.keyboard.unknown
 key_key.wynncraft-spell-caster.spell.melee:key.keyboard.unknown
-key_iris.keybind.reload:key.keyboard.r
+key_iris.keybind.reload:key.keyboard.unknown
 key_iris.keybind.toggleShaders:key.keyboard.k
 key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
@@ -195,7 +195,7 @@ key_wynntils.keybind.openItemRecord:key.keyboard.unknown
 key_wynntils.keybind.mountHorse:key.keyboard.r
 key_wynntils.keybind.castFirstSpell:key.keyboard.z
 key_wynntils.keybind.castSecondSpell:key.keyboard.x
-key_wynntils.keybind.castThirdSpell:key.keyboard.c
+key_wynntils.keybind.castThirdSpell:key.keyboard.2
 key_wynntils.keybind.castFourthSpell:key.keyboard.v
 key_wynntils.keybind.castMeleeAttack:key.keyboard.unknown
 key_wynntils.keybind.customCommandOne:key.keyboard.unknown
