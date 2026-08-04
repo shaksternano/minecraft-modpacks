@@ -17,6 +17,10 @@ file = "config/lambdynlights.toml"
 hash = "03fa53d6530afd89c871ed8a68e2590115dbd704fdb955a68001ee36d2a6844e"
 
 [[files]]
+file = "config/malilib.json"
+hash = "86599b75df5178d2220f853606199c210e1d5bdd4966ea403342d1fdb32fed54"
+
+[[files]]
 file = "config/minihud.json"
 hash = "a3558d7fc61ead06b938b45d25f082abca2bf238627e10f41472be4f331b6aa0"
 
