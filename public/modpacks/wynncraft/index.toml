@@ -9,6 +9,10 @@ file = "config/controlify.json"
 hash = "1ca768ee41959b27ce3c0eddffd1a39f3c2052b676c6a07511f6e96055301768"
 
 [[files]]
+file = "config/craftpresence.json"
+hash = "760122717a0cd0f0dd84dbad0e6a1c08dcaecc5a2e98618cebef46b7e326880d"
+
+[[files]]
 file = "config/iris.properties"
 hash = "78e395a2a6d463e50fdc2ad6072265ab12c338acc57348d62fdf02911f3741f3"
 
