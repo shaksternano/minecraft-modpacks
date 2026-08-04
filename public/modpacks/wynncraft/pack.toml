@@ -1,0 +1,13 @@
+name = "Wynncraft"
+author = "ShaksterNano"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "759cc0bf623d4b9a21da762dee3e31a689b3253623d57315c616344f949461e8"
+
+[versions]
+fabric = "0.19.3"
+minecraft = "1.21.11"

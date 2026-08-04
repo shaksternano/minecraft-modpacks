@@ -1,0 +1,13 @@
+name = "Barriers Don't Block Rain"
+filename = "barriers-dont-block-rain-1.0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/CXLh6wxz/versions/uttjjLzn/barriers-dont-block-rain-1.0.6.jar"
+hash-format = "sha512"
+hash = "54987a6866d0b9a5f76336fec65db7f1dbc82fc041eaeb9a7166157634f2a5798d5f634d8a512f668d685151f9009908dc3e310f79ff85243bfa4caac88eb323"
+
+[update]
+[update.modrinth]
+mod-id = "CXLh6wxz"
+version = "uttjjLzn"
