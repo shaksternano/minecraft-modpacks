@@ -5,6 +5,10 @@ file = "cherishedworlds-favorites.dat"
 hash = "57206a1a116b2037b765a21747f2d3d5ddbf0f6d81a63c59c6ea2187eb72ad2f"
 
 [[files]]
+file = "config/controlify.json"
+hash = "1ca768ee41959b27ce3c0eddffd1a39f3c2052b676c6a07511f6e96055301768"
+
+[[files]]
 file = "config/iris.properties"
 hash = "78e395a2a6d463e50fdc2ad6072265ab12c338acc57348d62fdf02911f3741f3"
 
