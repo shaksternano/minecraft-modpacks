@@ -295,6 +295,10 @@ hash = "1113d43c39a9866252a83ee50d16aa3ce6fcf749acd84d58b05ca09eba4d187b"
 metafile = true
 
 [[files]]
+file = "options.txt"
+hash = "2ec40452931e2f0c6d1ce2527268723dc161d6d234d81389d6239e6e74261b5c"
+
+[[files]]
 file = "resourcepacks/3d_models_1.21.zip"
 hash = "12aed554567427e65a0f6f180171e19a9bc03e6c5cceeb32d50a3599ed1c88d8"
 
