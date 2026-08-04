@@ -279,6 +279,11 @@ hash = "a6d5a7f891e3493377dae229fe94ec1903435c02f48bb32693193e16d016b4ad"
 metafile = true
 
 [[files]]
+file = "mods/wynnlodgrabber.pw.toml"
+hash = "7129efe45c0aef09792360bc1f1b13835a05d63b382bcb9dce82419b6791695c"
+metafile = true
+
+[[files]]
 file = "mods/wynntils.pw.toml"
 hash = "b6011cf799120778803c2039c48f6f56a3ee1b5fa2ce9f148be21ad396c939e2"
 metafile = true
