@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "cherishedworlds-favorites.dat"
+hash = "57206a1a116b2037b765a21747f2d3d5ddbf0f6d81a63c59c6ea2187eb72ad2f"
+
+[[files]]
 file = "config/iris.properties"
 hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
 
@@ -309,6 +313,10 @@ hash = "ffe42cd48483bff89c6ae17aed1dfad022d3817656935d48b1b82b7ce292365b"
 [[files]]
 file = "resourcepacks/vanilla_tweaks_resource_pack_1.21.zip"
 hash = "8e0a215f8f58709eb5b8b8e80bda174bf782645d01fb724bea17d93b3228d5c5"
+
+[[files]]
+file = "servers.dat"
+hash = "675b3afdb58ae07e5c063884af84f546e4301721e6fc1fb87d15eb4f6febe9e0"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.8.1.zip.txt"
