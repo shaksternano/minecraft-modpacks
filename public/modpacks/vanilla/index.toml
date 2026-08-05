@@ -119,7 +119,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "ce280969fa45ec982f36067934c36f76098dcf8b0c71bab46691e6b5b8e9664e"
+hash = "19be959d943e11ff05d9659225d60c3ad0a83e7d80a57cbb49866ded32755bf6"
 metafile = true
 
 [[files]]
@@ -314,7 +314,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
+hash = "ed9591c011a3b33d3def72cbc1e8e63da862f2f3de090858b9ca42af2d523b20"
 metafile = true
 
 [[files]]
@@ -345,6 +345,16 @@ metafile = true
 [[files]]
 file = "mods/voice-chat-interaction.pw.toml"
 hash = "48852d22be511ec9edf7073b0a04a23c0c20e0466c95191ab779e1ada8558fc2"
+metafile = true
+
+[[files]]
+file = "mods/voxy.pw.toml"
+hash = "d76577eb98ad277432d1f1f436d8dded1ec35401d32368c4e3cde52f5acc80ea"
+metafile = true
+
+[[files]]
+file = "mods/voxyserver.pw.toml"
+hash = "25c2c80dbf4b59b34d0f1bfe284f1dcbf58a7912ed2b548cffc1d9ad33f15e56"
 metafile = true
 
 [[files]]
