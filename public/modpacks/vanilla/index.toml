@@ -79,7 +79,7 @@ metafile = true
 
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
-hash = "79cc3f36a942dc98839216c5efd2881c17afb5bfac653f6b4f59721cbf6885f8"
+hash = "9788c306fc986d97045b2aaa0684ac6525116627a9f29cf4f635f4d28510b75f"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "6868b0f421f04aa2bf6df972ce0f32520fa9e43504b2ab62020c6659774f09ec"
+hash = "fe1df18d34923266ea93d68394e339cee09f7172f43c209007e85280d74185ea"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "af83129e6779d55d5fad28d33c38324fd250c64b5796519f64434247f012e14c"
+hash = "33821435044e82a593304b48662e957deea8d143913a76a3e7da85c9d0a49ed7"
 metafile = true
 
 [[files]]
