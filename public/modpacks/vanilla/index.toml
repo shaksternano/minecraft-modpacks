@@ -54,7 +54,7 @@ metafile = true
 
 [[files]]
 file = "mods/bluemap.pw.toml"
-hash = "ff2f4fbdd28753bcc8e95a886a355e14b1f474f653e92a0ddc4e615b3aa870c5"
+hash = "6414916464a96592f62fc2ed4dee6963422cd9e4e39ef35069e4ab659b6ce56d"
 metafile = true
 
 [[files]]
@@ -94,7 +94,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "fe1df18d34923266ea93d68394e339cee09f7172f43c209007e85280d74185ea"
+hash = "d8e7a3e4dd5ff305613dfffaa3ec8dd29b03cd8cb827724a6c6f42af6378c2cb"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/geyser.pw.toml"
-hash = "33821435044e82a593304b48662e957deea8d143913a76a3e7da85c9d0a49ed7"
+hash = "9d72bafd5b20283006b1c719cdba9eac90c86d30275d9df2eb82082251593e55"
 metafile = true
 
 [[files]]
