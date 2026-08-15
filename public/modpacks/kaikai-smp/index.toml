@@ -470,6 +470,11 @@ hash = "95f70f3504c362dfff5c6883e17c6c7cc2f7d64506d939a87764d18b3f85d36e"
 metafile = true
 
 [[files]]
+file = "mods/create-coasters-simulated.pw.toml"
+hash = "d5aad6415413aa777ed89ae55912f33c86757321c7c16c8392ce2e1429b920d5"
+metafile = true
+
+[[files]]
 file = "mods/create-contraption-terminals.pw.toml"
 hash = "5178c05f0788498cb6db144a990732d45f781194830b3f99ea73b890707f892b"
 metafile = true
