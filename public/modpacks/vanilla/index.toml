@@ -108,11 +108,6 @@ hash = "56f88fa7f66cf257c14937f53a1f3464212600544ef9b5186ef57dda5b8a3314"
 metafile = true
 
 [[files]]
-file = "mods/cubes-without-borders.pw.toml"
-hash = "ba10e235a3e4baac4862bb74a9b8b2fe7d4f2465620255195fb661a5e9c968d7"
-metafile = true
-
-[[files]]
 file = "mods/discord-mc-chat.pw.toml"
 hash = "7a39a7893822f108bcac76fdf8b037617e2afede10b76fb13fb83de936415667"
 metafile = true
