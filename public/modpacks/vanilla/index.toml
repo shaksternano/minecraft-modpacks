@@ -6,7 +6,7 @@ hash = "91f3ea65b8411e4413423ef44727c3332e14b0c32d6b0f4fc8a6f31c5e301350"
 
 [[files]]
 file = "config/iris.properties"
-hash = "bb6e3c5de3444206f254191572a5e598f66ffa1962cb8f2a372c2173e6a5d268"
+hash = "d08990a43076e24ad694156f0802510e2f53cb6b2a094fae21b40f0377553c14"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
