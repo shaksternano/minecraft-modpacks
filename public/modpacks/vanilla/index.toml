@@ -359,7 +359,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e551c3ecf83b34eeabc9a8a4220826e3d4e5659bd2572a5ff9f0bb5a33e41656"
+hash = "dba06d67c34427fd0a9b78107ea0bf4fb4d3cc9c935bcf6aacc9ac692861bb65"
 
 [[files]]
 file = "resourcepacks/3d_models_26.3.zip"
@@ -371,7 +371,7 @@ hash = "03b290b2096c7dfc8be4ae2130cd7bfa8527e67b3ffd9c82cbe683f86419976c"
 
 [[files]]
 file = "resourcepacks/vanilla_tweaks_resource_pack_26.3.zip"
-hash = "81ba3aa9f51a3f1ce46a0498c2ea9990e6b23926120bc60fab1df1039935d205"
+hash = "ff3670cfe6cf3fa71352ffbfab4f9e63162d69e04923963c55b70da329ea50db"
 
 [[files]]
 file = "shaderpacks/ComplementaryReimagined_r5.9.3.zip.txt"
