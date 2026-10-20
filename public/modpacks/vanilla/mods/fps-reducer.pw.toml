@@ -1,13 +1,13 @@
 name = "FPS Reducer"
-filename = "FpsReducer2-fabric-26.2-2.17.jar"
+filename = "FpsReducer2-fabric-26.3-2.18.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/A5mpaL6Q/FpsReducer2-fabric-26.2-2.17.jar"
+url = "https://cdn.modrinth.com/data/iZ10HXDj/versions/fY8E5FjE/FpsReducer2-fabric-26.3-2.18.jar"
 hash-format = "sha512"
-hash = "a572a38b7300ab0fdabc3e57632e8dc18bca33645fb56e615915ff4d1e6c6e42a03823b9908bafb02b140a19df8931343b3bdd17f29bb955ee48414466e4fa8b"
+hash = "048396a4cd2802271cf9e6cb445dfafa2ab9a68b059967c674ea845ae2735636594e247a16a813c69f7b70b02e3fdf1c299faf770f10425164439f768b0a942a"
 
 [update]
 [update.modrinth]
 mod-id = "iZ10HXDj"
-version = "A5mpaL6Q"
+version = "fY8E5FjE"

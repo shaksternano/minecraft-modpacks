@@ -1,13 +1,13 @@
 name = "Voxy Server"
-filename = "VoxyServer-1.2.4-26.2.jar"
+filename = "VoxyServer-1.2.5-36.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fNtGd1cx/versions/EsIPjK0A/VoxyServer-1.2.4-26.2.jar"
+url = "https://cdn.modrinth.com/data/fNtGd1cx/versions/Rrtp8wi8/VoxyServer-1.2.5-36.3.jar"
 hash-format = "sha512"
-hash = "ad0761c8d752b6c2ae05c49cc4e2d175696d9a2ee857c1d4fa36ef9e5529a6d376374876050a363666ccd679d6e99b2593cb0d8094ae8d49f0f1ed02e3d0477b"
+hash = "478bde9e74ef4271926571113e079558361967ba49261893f5bf13e20c1bed0e2e92973fd07f95f4917ead703106e0ebe7b77b3b053f9cf0db2db11695b8129d"
 
 [update]
 [update.modrinth]
 mod-id = "fNtGd1cx"
-version = "EsIPjK0A"
+version = "Rrtp8wi8"
